@@ -1,0 +1,27 @@
+{
+  "rack_lifetime_quarters": 4,
+  "rack_gpu_kw": 4.0,
+  "gpu_to_it_factor": 1.3,
+  "training_pflops_per_rack": 20.0,
+  "inference_pflops_per_rack": 10.0,
+  "quarter_hours": 2160,
+  "liquid_share": 0.5,
+  "idle_power_fraction": 0.2,
+  "max_power_fraction": 0.9,
+  "training_utilization": 0.7,
+  "inference_utilization": 0.4,
+  "phases": {
+    "single": {
+      "litres_per_kw": 3.0,
+      "density_kg_per_litre": 0.8,
+      "pue": 1.2,
+      "annual_loss_fraction": 0.04
+    },
+    "two": {
+      "litres_per_kw": 2.0,
+      "density_kg_per_litre": 1.2,
+      "pue": 1.1,
+      "annual_loss_fraction": 0.08
+    }
+  }
+}

@@ -1,0 +1,25 @@
+phase,activity,indicator,factor,activity_unit,impact_unit
+single,coolant_supply,CC,2.0,kg,kg CO2-eq
+single,coolant_supply,HTC,2e-08,kg,CTUh
+single,coolant_supply,CED,20.0,kg,MJ-eq
+single,coolant_treatment,CC,0.5,kg,kg CO2-eq
+single,coolant_treatment,HTC,1e-08,kg,CTUh
+single,coolant_treatment,CED,5.0,kg,MJ-eq
+single,coolant_recovery,CC,0.2,kg,kg CO2-eq
+single,coolant_recovery,HTC,5e-09,kg,CTUh
+single,coolant_recovery,CED,3.0,kg,MJ-eq
+single,cooling_electricity,CC,0.4,kWh,kg CO2-eq
+single,cooling_electricity,HTC,1e-08,kWh,CTUh
+single,cooling_electricity,CED,8.0,kWh,MJ-eq
+two,coolant_supply,CC,4.0,kg,kg CO2-eq
+two,coolant_supply,HTC,4e-08,kg,CTUh
+two,coolant_supply,CED,30.0,kg,MJ-eq
+two,coolant_treatment,CC,0.8,kg,kg CO2-eq
+two,coolant_treatment,HTC,2e-08,kg,CTUh
+two,coolant_treatment,CED,7.0,kg,MJ-eq
+two,coolant_recovery,CC,0.3,kg,kg CO2-eq
+two,coolant_recovery,HTC,8e-09,kg,CTUh
+two,coolant_recovery,CED,4.0,kg,MJ-eq
+two,cooling_electricity,CC,0.4,kWh,kg CO2-eq
+two,cooling_electricity,HTC,1e-08,kWh,CTUh
+two,cooling_electricity,CED,8.0,kWh,MJ-eq

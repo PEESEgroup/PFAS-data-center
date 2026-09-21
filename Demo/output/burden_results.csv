@@ -1,0 +1,1441 @@
+period,scenario,phase,source,indicator,quantity,activity_unit,factor,value,unit
+Q01,baseline,single,coolant_supply,CC,43.68000000000001,kg,2.0,87.36000000000001,kg CO2-eq
+Q01,baseline,single,coolant_supply,HTC,43.68000000000001,kg,2e-08,8.736000000000002e-07,CTUh
+Q01,baseline,single,coolant_supply,CED,43.68000000000001,kg,20.0,873.6000000000001,MJ-eq
+Q01,baseline,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q01,baseline,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q01,baseline,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q01,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q01,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q01,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q01,baseline,single,cooling_electricity,CC,2358.7199999999993,kWh,0.4,943.4879999999998,kg CO2-eq
+Q01,baseline,single,cooling_electricity,HTC,2358.7199999999993,kWh,1e-08,2.3587199999999993e-05,CTUh
+Q01,baseline,single,cooling_electricity,CED,2358.7199999999993,kWh,8.0,18869.759999999995,MJ-eq
+Q02,baseline,single,coolant_supply,CC,12.923509214455812,kg,2.0,25.847018428911625,kg CO2-eq
+Q02,baseline,single,coolant_supply,HTC,12.923509214455812,kg,2e-08,2.5847018428911626e-07,CTUh
+Q02,baseline,single,coolant_supply,CED,12.923509214455812,kg,20.0,258.4701842891162,MJ-eq
+Q02,baseline,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q02,baseline,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q02,baseline,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q02,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q02,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q02,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q02,baseline,single,cooling_electricity,CC,5374.511999999998,kWh,0.4,2149.8047999999994,kg CO2-eq
+Q02,baseline,single,cooling_electricity,HTC,5374.511999999998,kWh,1e-08,5.374511999999998e-05,CTUh
+Q02,baseline,single,cooling_electricity,CED,5374.511999999998,kWh,8.0,42996.09599999998,MJ-eq
+Q03,baseline,single,coolant_supply,CC,13.050226132871758,kg,2.0,26.100452265743517,kg CO2-eq
+Q03,baseline,single,coolant_supply,HTC,13.050226132871758,kg,2e-08,2.6100452265743517e-07,CTUh
+Q03,baseline,single,coolant_supply,CED,13.050226132871758,kg,20.0,261.0045226574352,MJ-eq
+Q03,baseline,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q03,baseline,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q03,baseline,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q03,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q03,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q03,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q03,baseline,single,cooling_electricity,CC,6688.655999999998,kWh,0.4,2675.4623999999994,kg CO2-eq
+Q03,baseline,single,cooling_electricity,HTC,6688.655999999998,kWh,1e-08,6.688655999999998e-05,CTUh
+Q03,baseline,single,cooling_electricity,CED,6688.655999999998,kWh,8.0,53509.247999999985,MJ-eq
+Q04,baseline,single,coolant_supply,CC,13.176943051287704,kg,2.0,26.35388610257541,kg CO2-eq
+Q04,baseline,single,coolant_supply,HTC,13.176943051287704,kg,2e-08,2.635388610257541e-07,CTUh
+Q04,baseline,single,coolant_supply,CED,13.176943051287704,kg,20.0,263.5388610257541,MJ-eq
+Q04,baseline,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q04,baseline,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q04,baseline,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q04,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q04,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q04,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q04,baseline,single,cooling_electricity,CC,8002.799999999998,kWh,0.4,3201.1199999999994,kg CO2-eq
+Q04,baseline,single,cooling_electricity,HTC,8002.799999999998,kWh,1e-08,8.002799999999999e-05,CTUh
+Q04,baseline,single,cooling_electricity,CED,8002.799999999998,kWh,8.0,64022.39999999999,MJ-eq
+Q05,baseline,single,coolant_supply,CC,56.54015075524785,kg,2.0,113.0803015104957,kg CO2-eq
+Q05,baseline,single,coolant_supply,HTC,56.54015075524785,kg,2e-08,1.130803015104957e-06,CTUh
+Q05,baseline,single,coolant_supply,CED,56.54015075524785,kg,20.0,1130.803015104957,MJ-eq
+Q05,baseline,single,coolant_treatment,CC,43.68000000000001,kg,0.5,21.840000000000003,kg CO2-eq
+Q05,baseline,single,coolant_treatment,HTC,43.68000000000001,kg,1e-08,4.368000000000001e-07,CTUh
+Q05,baseline,single,coolant_treatment,CED,43.68000000000001,kg,5.0,218.40000000000003,MJ-eq
+Q05,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q05,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q05,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q05,baseline,single,cooling_electricity,CC,9316.943999999998,kWh,0.4,3726.7775999999994,kg CO2-eq
+Q05,baseline,single,cooling_electricity,HTC,9316.943999999998,kWh,1e-08,9.316943999999998e-05,CTUh
+Q05,baseline,single,cooling_electricity,CED,9316.943999999998,kWh,8.0,74535.55199999998,MJ-eq
+Q06,baseline,single,coolant_supply,CC,25.783659969703653,kg,2.0,51.567319939407305,kg CO2-eq
+Q06,baseline,single,coolant_supply,HTC,25.783659969703653,kg,2e-08,5.15673199394073e-07,CTUh
+Q06,baseline,single,coolant_supply,CED,25.783659969703653,kg,20.0,515.6731993940731,MJ-eq
+Q06,baseline,single,coolant_treatment,CC,12.480000000000002,kg,0.5,6.240000000000001,kg CO2-eq
+Q06,baseline,single,coolant_treatment,HTC,12.480000000000002,kg,1e-08,1.2480000000000003e-07,CTUh
+Q06,baseline,single,coolant_treatment,CED,12.480000000000002,kg,5.0,62.40000000000001,MJ-eq
+Q06,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q06,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q06,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q06,baseline,single,cooling_electricity,CC,10631.087999999998,kWh,0.4,4252.435199999999,kg CO2-eq
+Q06,baseline,single,cooling_electricity,HTC,10631.087999999998,kWh,1e-08,0.00010631087999999998,CTUh
+Q06,baseline,single,cooling_electricity,CED,10631.087999999998,kWh,8.0,85048.70399999998,MJ-eq
+Q07,baseline,single,coolant_supply,CC,0.9503768881195946,kg,2.0,1.9007537762391893,kg CO2-eq
+Q07,baseline,single,coolant_supply,HTC,0.9503768881195946,kg,2e-08,1.9007537762391895e-08,CTUh
+Q07,baseline,single,coolant_supply,CED,0.9503768881195946,kg,20.0,19.00753776239189,MJ-eq
+Q07,baseline,single,coolant_treatment,CC,12.480000000000002,kg,0.5,6.240000000000001,kg CO2-eq
+Q07,baseline,single,coolant_treatment,HTC,12.480000000000002,kg,1e-08,1.2480000000000003e-07,CTUh
+Q07,baseline,single,coolant_treatment,CED,12.480000000000002,kg,5.0,62.40000000000001,MJ-eq
+Q07,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q07,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q07,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q07,baseline,single,cooling_electricity,CC,10631.087999999998,kWh,0.4,4252.435199999999,kg CO2-eq
+Q07,baseline,single,cooling_electricity,HTC,10631.087999999998,kWh,1e-08,0.00010631087999999998,CTUh
+Q07,baseline,single,cooling_electricity,CED,10631.087999999998,kWh,8.0,85048.70399999998,MJ-eq
+Q08,baseline,single,coolant_supply,CC,0.8236599697036489,kg,2.0,1.6473199394072977,kg CO2-eq
+Q08,baseline,single,coolant_supply,HTC,0.8236599697036489,kg,2e-08,1.6473199394072978e-08,CTUh
+Q08,baseline,single,coolant_supply,CED,0.8236599697036489,kg,20.0,16.473199394072978,MJ-eq
+Q08,baseline,single,coolant_treatment,CC,12.480000000000002,kg,0.5,6.240000000000001,kg CO2-eq
+Q08,baseline,single,coolant_treatment,HTC,12.480000000000002,kg,1e-08,1.2480000000000003e-07,CTUh
+Q08,baseline,single,coolant_treatment,CED,12.480000000000002,kg,5.0,62.40000000000001,MJ-eq
+Q08,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q08,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q08,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q08,baseline,single,cooling_electricity,CC,9316.943999999998,kWh,0.4,3726.7775999999994,kg CO2-eq
+Q08,baseline,single,cooling_electricity,HTC,9316.943999999998,kWh,1e-08,9.316943999999998e-05,CTUh
+Q08,baseline,single,cooling_electricity,CED,9316.943999999998,kWh,8.0,74535.55199999998,MJ-eq
+Q09,baseline,single,coolant_supply,CC,87.6134338368319,kg,2.0,175.2268676736638,kg CO2-eq
+Q09,baseline,single,coolant_supply,HTC,87.6134338368319,kg,2e-08,1.752268676736638e-06,CTUh
+Q09,baseline,single,coolant_supply,CED,87.6134338368319,kg,20.0,1752.268676736638,MJ-eq
+Q09,baseline,single,coolant_treatment,CC,56.16000000000001,kg,0.5,28.080000000000005,kg CO2-eq
+Q09,baseline,single,coolant_treatment,HTC,56.16000000000001,kg,1e-08,5.616000000000002e-07,CTUh
+Q09,baseline,single,coolant_treatment,CED,56.16000000000001,kg,5.0,280.80000000000007,MJ-eq
+Q09,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q09,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q09,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q09,baseline,single,cooling_electricity,CC,10243.583999999997,kWh,0.4,4097.433599999999,kg CO2-eq
+Q09,baseline,single,cooling_electricity,HTC,10243.583999999997,kWh,1e-08,0.00010243583999999997,CTUh
+Q09,baseline,single,cooling_electricity,CED,10243.583999999997,kWh,8.0,81948.67199999998,MJ-eq
+Q10,baseline,single,coolant_supply,CC,38.32701842891163,kg,2.0,76.65403685782326,kg CO2-eq
+Q10,baseline,single,coolant_supply,HTC,38.32701842891163,kg,2e-08,7.665403685782325e-07,CTUh
+Q10,baseline,single,coolant_supply,CED,38.32701842891163,kg,20.0,766.5403685782326,MJ-eq
+Q10,baseline,single,coolant_treatment,CC,24.960000000000004,kg,0.5,12.480000000000002,kg CO2-eq
+Q10,baseline,single,coolant_treatment,HTC,24.960000000000004,kg,1e-08,2.4960000000000006e-07,CTUh
+Q10,baseline,single,coolant_treatment,CED,24.960000000000004,kg,5.0,124.80000000000003,MJ-eq
+Q10,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q10,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q10,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q10,baseline,single,cooling_electricity,CC,12484.367999999997,kWh,0.4,4993.747199999999,kg CO2-eq
+Q10,baseline,single,cooling_electricity,HTC,12484.367999999997,kWh,1e-08,0.00012484367999999996,CTUh
+Q10,baseline,single,cooling_electricity,CED,12484.367999999997,kWh,8.0,99874.94399999997,MJ-eq
+Q11,baseline,single,coolant_supply,CC,13.747169184159462,kg,2.0,27.494338368318925,kg CO2-eq
+Q11,baseline,single,coolant_supply,HTC,13.747169184159462,kg,2e-08,2.7494338368318924e-07,CTUh
+Q11,baseline,single,coolant_supply,CED,13.747169184159462,kg,20.0,274.94338368318927,MJ-eq
+Q11,baseline,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q11,baseline,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q11,baseline,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q11,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q11,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q11,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q11,baseline,single,cooling_electricity,CC,13798.511999999997,kWh,0.4,5519.404799999999,kg CO2-eq
+Q11,baseline,single,cooling_electricity,HTC,13798.511999999997,kWh,1e-08,0.00013798511999999998,CTUh
+Q11,baseline,single,cooling_electricity,CED,13798.511999999997,kWh,8.0,110388.09599999998,MJ-eq
+Q12,baseline,single,coolant_supply,CC,13.873886102575408,kg,2.0,27.747772205150817,kg CO2-eq
+Q12,baseline,single,coolant_supply,HTC,13.873886102575408,kg,2e-08,2.774777220515082e-07,CTUh
+Q12,baseline,single,coolant_supply,CED,13.873886102575408,kg,20.0,277.4777220515082,MJ-eq
+Q12,baseline,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q12,baseline,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q12,baseline,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q12,baseline,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q12,baseline,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q12,baseline,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q12,baseline,single,cooling_electricity,CC,15112.655999999997,kWh,0.4,6045.062399999999,kg CO2-eq
+Q12,baseline,single,cooling_electricity,HTC,15112.655999999997,kWh,1e-08,0.00015112655999999997,CTUh
+Q12,baseline,single,cooling_electricity,CED,15112.655999999997,kWh,8.0,120901.24799999998,MJ-eq
+Q01,baseline,two,coolant_supply,CC,43.68,kg,4.0,174.72,kg CO2-eq
+Q01,baseline,two,coolant_supply,HTC,43.68,kg,4e-08,1.7472e-06,CTUh
+Q01,baseline,two,coolant_supply,CED,43.68,kg,30.0,1310.4,MJ-eq
+Q01,baseline,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q01,baseline,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q01,baseline,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q01,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q01,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q01,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q01,baseline,two,cooling_electricity,CC,1179.3600000000008,kWh,0.4,471.74400000000037,kg CO2-eq
+Q01,baseline,two,cooling_electricity,HTC,1179.3600000000008,kWh,1e-08,1.1793600000000009e-05,CTUh
+Q01,baseline,two,cooling_electricity,CED,1179.3600000000008,kWh,8.0,9434.880000000006,MJ-eq
+Q02,baseline,two,coolant_supply,CC,13.38110261686277,kg,4.0,53.52441046745108,kg CO2-eq
+Q02,baseline,two,coolant_supply,HTC,13.38110261686277,kg,4e-08,5.352441046745107e-07,CTUh
+Q02,baseline,two,coolant_supply,CED,13.38110261686277,kg,30.0,401.4330785058831,MJ-eq
+Q02,baseline,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q02,baseline,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q02,baseline,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q02,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q02,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q02,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q02,baseline,two,cooling_electricity,CC,2687.256000000002,kWh,0.4,1074.9024000000009,kg CO2-eq
+Q02,baseline,two,cooling_electricity,HTC,2687.256000000002,kWh,1e-08,2.6872560000000022e-05,CTUh
+Q02,baseline,two,cooling_electricity,CED,2687.256000000002,kWh,8.0,21498.048000000017,MJ-eq
+Q03,baseline,two,coolant_supply,CC,13.638560507394988,kg,4.0,54.55424202957995,kg CO2-eq
+Q03,baseline,two,coolant_supply,HTC,13.638560507394988,kg,4e-08,5.455424202957995e-07,CTUh
+Q03,baseline,two,coolant_supply,CED,13.638560507394988,kg,30.0,409.1568152218496,MJ-eq
+Q03,baseline,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q03,baseline,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q03,baseline,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q03,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q03,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q03,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q03,baseline,two,cooling_electricity,CC,3344.3280000000027,kWh,0.4,1337.731200000001,kg CO2-eq
+Q03,baseline,two,cooling_electricity,HTC,3344.3280000000027,kWh,1e-08,3.3443280000000024e-05,CTUh
+Q03,baseline,two,cooling_electricity,CED,3344.3280000000027,kWh,8.0,26754.62400000002,MJ-eq
+Q04,baseline,two,coolant_supply,CC,13.896018397927207,kg,4.0,55.58407359170883,kg CO2-eq
+Q04,baseline,two,coolant_supply,HTC,13.896018397927207,kg,4e-08,5.558407359170883e-07,CTUh
+Q04,baseline,two,coolant_supply,CED,13.896018397927207,kg,30.0,416.8805519378162,MJ-eq
+Q04,baseline,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q04,baseline,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q04,baseline,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q04,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q04,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q04,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q04,baseline,two,cooling_electricity,CC,4001.4000000000037,kWh,0.4,1600.5600000000015,kg CO2-eq
+Q04,baseline,two,cooling_electricity,HTC,4001.4000000000037,kWh,1e-08,4.001400000000004e-05,CTUh
+Q04,baseline,two,cooling_electricity,CED,4001.4000000000037,kWh,8.0,32011.20000000003,MJ-eq
+Q05,baseline,two,coolant_supply,CC,56.932373671596665,kg,4.0,227.72949468638666,kg CO2-eq
+Q05,baseline,two,coolant_supply,HTC,56.932373671596665,kg,4e-08,2.2772949468638667e-06,CTUh
+Q05,baseline,two,coolant_supply,CED,56.932373671596665,kg,30.0,1707.9712101479,MJ-eq
+Q05,baseline,two,coolant_treatment,CC,43.68,kg,0.8,34.944,kg CO2-eq
+Q05,baseline,two,coolant_treatment,HTC,43.68,kg,2e-08,8.736e-07,CTUh
+Q05,baseline,two,coolant_treatment,CED,43.68,kg,7.0,305.76,MJ-eq
+Q05,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q05,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q05,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q05,baseline,two,cooling_electricity,CC,4658.472000000004,kWh,0.4,1863.3888000000018,kg CO2-eq
+Q05,baseline,two,cooling_electricity,HTC,4658.472000000004,kWh,1e-08,4.6584720000000043e-05,CTUh
+Q05,baseline,two,cooling_electricity,CED,4658.472000000004,kWh,8.0,37267.776000000034,MJ-eq
+Q06,baseline,two,coolant_supply,CC,26.633476288459427,kg,4.0,106.53390515383771,kg CO2-eq
+Q06,baseline,two,coolant_supply,HTC,26.633476288459427,kg,4e-08,1.0653390515383772e-06,CTUh
+Q06,baseline,two,coolant_supply,CED,26.633476288459427,kg,30.0,799.0042886537829,MJ-eq
+Q06,baseline,two,coolant_treatment,CC,12.48,kg,0.8,9.984000000000002,kg CO2-eq
+Q06,baseline,two,coolant_treatment,HTC,12.48,kg,2e-08,2.496e-07,CTUh
+Q06,baseline,two,coolant_treatment,CED,12.48,kg,7.0,87.36,MJ-eq
+Q06,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q06,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q06,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q06,baseline,two,cooling_electricity,CC,5315.544000000005,kWh,0.4,2126.217600000002,kg CO2-eq
+Q06,baseline,two,cooling_electricity,HTC,5315.544000000005,kWh,1e-08,5.315544000000005e-05,CTUh
+Q06,baseline,two,cooling_electricity,CED,5315.544000000005,kWh,8.0,42524.35200000004,MJ-eq
+Q07,baseline,two,coolant_supply,CC,1.930934178991647,kg,4.0,7.723736715966588,kg CO2-eq
+Q07,baseline,two,coolant_supply,HTC,1.930934178991647,kg,4e-08,7.723736715966588e-08,CTUh
+Q07,baseline,two,coolant_supply,CED,1.930934178991647,kg,30.0,57.928025369749406,MJ-eq
+Q07,baseline,two,coolant_treatment,CC,12.48,kg,0.8,9.984000000000002,kg CO2-eq
+Q07,baseline,two,coolant_treatment,HTC,12.48,kg,2e-08,2.496e-07,CTUh
+Q07,baseline,two,coolant_treatment,CED,12.48,kg,7.0,87.36,MJ-eq
+Q07,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q07,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q07,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q07,baseline,two,cooling_electricity,CC,5315.544000000005,kWh,0.4,2126.217600000002,kg CO2-eq
+Q07,baseline,two,cooling_electricity,HTC,5315.544000000005,kWh,1e-08,5.315544000000005e-05,CTUh
+Q07,baseline,two,cooling_electricity,CED,5315.544000000005,kWh,8.0,42524.35200000004,MJ-eq
+Q08,baseline,two,coolant_supply,CC,1.6734762884594276,kg,4.0,6.693905153837711,kg CO2-eq
+Q08,baseline,two,coolant_supply,HTC,1.6734762884594276,kg,4e-08,6.693905153837711e-08,CTUh
+Q08,baseline,two,coolant_supply,CED,1.6734762884594276,kg,30.0,50.20428865378283,MJ-eq
+Q08,baseline,two,coolant_treatment,CC,12.48,kg,0.8,9.984000000000002,kg CO2-eq
+Q08,baseline,two,coolant_treatment,HTC,12.48,kg,2e-08,2.496e-07,CTUh
+Q08,baseline,two,coolant_treatment,CED,12.48,kg,7.0,87.36,MJ-eq
+Q08,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q08,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q08,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q08,baseline,two,cooling_electricity,CC,4658.472000000004,kWh,0.4,1863.3888000000018,kg CO2-eq
+Q08,baseline,two,cooling_electricity,HTC,4658.472000000004,kWh,1e-08,4.6584720000000043e-05,CTUh
+Q08,baseline,two,cooling_electricity,CED,4658.472000000004,kWh,8.0,37267.776000000034,MJ-eq
+Q09,baseline,two,coolant_supply,CC,87.87491578106444,kg,4.0,351.4996631242578,kg CO2-eq
+Q09,baseline,two,coolant_supply,HTC,87.87491578106444,kg,4e-08,3.514996631242578e-06,CTUh
+Q09,baseline,two,coolant_supply,CED,87.87491578106444,kg,30.0,2636.2474734319335,MJ-eq
+Q09,baseline,two,coolant_treatment,CC,56.160000000000004,kg,0.8,44.928000000000004,kg CO2-eq
+Q09,baseline,two,coolant_treatment,HTC,56.160000000000004,kg,2e-08,1.1232e-06,CTUh
+Q09,baseline,two,coolant_treatment,CED,56.160000000000004,kg,7.0,393.12,MJ-eq
+Q09,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q09,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q09,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q09,baseline,two,cooling_electricity,CC,5121.792000000004,kWh,0.4,2048.7168000000015,kg CO2-eq
+Q09,baseline,two,cooling_electricity,HTC,5121.792000000004,kWh,1e-08,5.121792000000004e-05,CTUh
+Q09,baseline,two,cooling_electricity,CED,5121.792000000004,kWh,8.0,40974.33600000003,MJ-eq
+Q10,baseline,two,coolant_supply,CC,39.242205233725535,kg,4.0,156.96882093490214,kg CO2-eq
+Q10,baseline,two,coolant_supply,HTC,39.242205233725535,kg,4e-08,1.5696882093490215e-06,CTUh
+Q10,baseline,two,coolant_supply,CED,39.242205233725535,kg,30.0,1177.2661570117662,MJ-eq
+Q10,baseline,two,coolant_treatment,CC,24.96,kg,0.8,19.968000000000004,kg CO2-eq
+Q10,baseline,two,coolant_treatment,HTC,24.96,kg,2e-08,4.992e-07,CTUh
+Q10,baseline,two,coolant_treatment,CED,24.96,kg,7.0,174.72,MJ-eq
+Q10,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q10,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q10,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q10,baseline,two,cooling_electricity,CC,6242.184000000005,kWh,0.4,2496.873600000002,kg CO2-eq
+Q10,baseline,two,cooling_electricity,HTC,6242.184000000005,kWh,1e-08,6.242184000000005e-05,CTUh
+Q10,baseline,two,cooling_electricity,CED,6242.184000000005,kWh,8.0,49937.47200000004,MJ-eq
+Q11,baseline,two,coolant_supply,CC,15.054578905322197,kg,4.0,60.21831562128879,kg CO2-eq
+Q11,baseline,two,coolant_supply,HTC,15.054578905322197,kg,4e-08,6.021831562128879e-07,CTUh
+Q11,baseline,two,coolant_supply,CED,15.054578905322197,kg,30.0,451.6373671596659,MJ-eq
+Q11,baseline,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q11,baseline,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q11,baseline,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q11,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q11,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q11,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q11,baseline,two,cooling_electricity,CC,6899.256000000006,kWh,0.4,2759.7024000000024,kg CO2-eq
+Q11,baseline,two,cooling_electricity,HTC,6899.256000000006,kWh,1e-08,6.899256000000006e-05,CTUh
+Q11,baseline,two,cooling_electricity,CED,6899.256000000006,kWh,8.0,55194.048000000046,MJ-eq
+Q12,baseline,two,coolant_supply,CC,15.312036795854416,kg,4.0,61.248147183417665,kg CO2-eq
+Q12,baseline,two,coolant_supply,HTC,15.312036795854416,kg,4e-08,6.124814718341767e-07,CTUh
+Q12,baseline,two,coolant_supply,CED,15.312036795854416,kg,30.0,459.36110387563247,MJ-eq
+Q12,baseline,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q12,baseline,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q12,baseline,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q12,baseline,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q12,baseline,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q12,baseline,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q12,baseline,two,cooling_electricity,CC,7556.328000000007,kWh,0.4,3022.531200000003,kg CO2-eq
+Q12,baseline,two,cooling_electricity,HTC,7556.328000000007,kWh,1e-08,7.556328000000007e-05,CTUh
+Q12,baseline,two,cooling_electricity,CED,7556.328000000007,kWh,8.0,60450.624000000054,MJ-eq
+Q01,improved_pue,single,coolant_supply,CC,43.68000000000001,kg,2.0,87.36000000000001,kg CO2-eq
+Q01,improved_pue,single,coolant_supply,HTC,43.68000000000001,kg,2e-08,8.736000000000002e-07,CTUh
+Q01,improved_pue,single,coolant_supply,CED,43.68000000000001,kg,20.0,873.6000000000001,MJ-eq
+Q01,improved_pue,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q01,improved_pue,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q01,improved_pue,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q01,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q01,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q01,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q01,improved_pue,single,cooling_electricity,CC,1886.9759999999987,kWh,0.4,754.7903999999995,kg CO2-eq
+Q01,improved_pue,single,cooling_electricity,HTC,1886.9759999999987,kWh,1e-08,1.8869759999999987e-05,CTUh
+Q01,improved_pue,single,cooling_electricity,CED,1886.9759999999987,kWh,8.0,15095.80799999999,MJ-eq
+Q02,improved_pue,single,coolant_supply,CC,12.923509214455812,kg,2.0,25.847018428911625,kg CO2-eq
+Q02,improved_pue,single,coolant_supply,HTC,12.923509214455812,kg,2e-08,2.5847018428911626e-07,CTUh
+Q02,improved_pue,single,coolant_supply,CED,12.923509214455812,kg,20.0,258.4701842891162,MJ-eq
+Q02,improved_pue,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q02,improved_pue,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q02,improved_pue,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q02,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q02,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q02,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q02,improved_pue,single,cooling_electricity,CC,4299.609599999997,kWh,0.4,1719.8438399999989,kg CO2-eq
+Q02,improved_pue,single,cooling_electricity,HTC,4299.609599999997,kWh,1e-08,4.299609599999997e-05,CTUh
+Q02,improved_pue,single,cooling_electricity,CED,4299.609599999997,kWh,8.0,34396.876799999976,MJ-eq
+Q03,improved_pue,single,coolant_supply,CC,13.050226132871758,kg,2.0,26.100452265743517,kg CO2-eq
+Q03,improved_pue,single,coolant_supply,HTC,13.050226132871758,kg,2e-08,2.6100452265743517e-07,CTUh
+Q03,improved_pue,single,coolant_supply,CED,13.050226132871758,kg,20.0,261.0045226574352,MJ-eq
+Q03,improved_pue,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q03,improved_pue,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q03,improved_pue,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q03,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q03,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q03,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q03,improved_pue,single,cooling_electricity,CC,5350.924799999997,kWh,0.4,2140.3699199999987,kg CO2-eq
+Q03,improved_pue,single,cooling_electricity,HTC,5350.924799999997,kWh,1e-08,5.350924799999997e-05,CTUh
+Q03,improved_pue,single,cooling_electricity,CED,5350.924799999997,kWh,8.0,42807.39839999998,MJ-eq
+Q04,improved_pue,single,coolant_supply,CC,13.176943051287704,kg,2.0,26.35388610257541,kg CO2-eq
+Q04,improved_pue,single,coolant_supply,HTC,13.176943051287704,kg,2e-08,2.635388610257541e-07,CTUh
+Q04,improved_pue,single,coolant_supply,CED,13.176943051287704,kg,20.0,263.5388610257541,MJ-eq
+Q04,improved_pue,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q04,improved_pue,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q04,improved_pue,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q04,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q04,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q04,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q04,improved_pue,single,cooling_electricity,CC,6402.239999999997,kWh,0.4,2560.895999999999,kg CO2-eq
+Q04,improved_pue,single,cooling_electricity,HTC,6402.239999999997,kWh,1e-08,6.402239999999998e-05,CTUh
+Q04,improved_pue,single,cooling_electricity,CED,6402.239999999997,kWh,8.0,51217.91999999998,MJ-eq
+Q05,improved_pue,single,coolant_supply,CC,56.54015075524785,kg,2.0,113.0803015104957,kg CO2-eq
+Q05,improved_pue,single,coolant_supply,HTC,56.54015075524785,kg,2e-08,1.130803015104957e-06,CTUh
+Q05,improved_pue,single,coolant_supply,CED,56.54015075524785,kg,20.0,1130.803015104957,MJ-eq
+Q05,improved_pue,single,coolant_treatment,CC,43.68000000000001,kg,0.5,21.840000000000003,kg CO2-eq
+Q05,improved_pue,single,coolant_treatment,HTC,43.68000000000001,kg,1e-08,4.368000000000001e-07,CTUh
+Q05,improved_pue,single,coolant_treatment,CED,43.68000000000001,kg,5.0,218.40000000000003,MJ-eq
+Q05,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q05,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q05,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q05,improved_pue,single,cooling_electricity,CC,7453.555199999996,kWh,0.4,2981.4220799999985,kg CO2-eq
+Q05,improved_pue,single,cooling_electricity,HTC,7453.555199999996,kWh,1e-08,7.453555199999997e-05,CTUh
+Q05,improved_pue,single,cooling_electricity,CED,7453.555199999996,kWh,8.0,59628.44159999997,MJ-eq
+Q06,improved_pue,single,coolant_supply,CC,25.783659969703653,kg,2.0,51.567319939407305,kg CO2-eq
+Q06,improved_pue,single,coolant_supply,HTC,25.783659969703653,kg,2e-08,5.15673199394073e-07,CTUh
+Q06,improved_pue,single,coolant_supply,CED,25.783659969703653,kg,20.0,515.6731993940731,MJ-eq
+Q06,improved_pue,single,coolant_treatment,CC,12.480000000000002,kg,0.5,6.240000000000001,kg CO2-eq
+Q06,improved_pue,single,coolant_treatment,HTC,12.480000000000002,kg,1e-08,1.2480000000000003e-07,CTUh
+Q06,improved_pue,single,coolant_treatment,CED,12.480000000000002,kg,5.0,62.40000000000001,MJ-eq
+Q06,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q06,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q06,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q06,improved_pue,single,cooling_electricity,CC,8504.870399999996,kWh,0.4,3401.9481599999986,kg CO2-eq
+Q06,improved_pue,single,cooling_electricity,HTC,8504.870399999996,kWh,1e-08,8.504870399999997e-05,CTUh
+Q06,improved_pue,single,cooling_electricity,CED,8504.870399999996,kWh,8.0,68038.96319999997,MJ-eq
+Q07,improved_pue,single,coolant_supply,CC,0.9503768881195946,kg,2.0,1.9007537762391893,kg CO2-eq
+Q07,improved_pue,single,coolant_supply,HTC,0.9503768881195946,kg,2e-08,1.9007537762391895e-08,CTUh
+Q07,improved_pue,single,coolant_supply,CED,0.9503768881195946,kg,20.0,19.00753776239189,MJ-eq
+Q07,improved_pue,single,coolant_treatment,CC,12.480000000000002,kg,0.5,6.240000000000001,kg CO2-eq
+Q07,improved_pue,single,coolant_treatment,HTC,12.480000000000002,kg,1e-08,1.2480000000000003e-07,CTUh
+Q07,improved_pue,single,coolant_treatment,CED,12.480000000000002,kg,5.0,62.40000000000001,MJ-eq
+Q07,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q07,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q07,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q07,improved_pue,single,cooling_electricity,CC,8504.870399999996,kWh,0.4,3401.9481599999986,kg CO2-eq
+Q07,improved_pue,single,cooling_electricity,HTC,8504.870399999996,kWh,1e-08,8.504870399999997e-05,CTUh
+Q07,improved_pue,single,cooling_electricity,CED,8504.870399999996,kWh,8.0,68038.96319999997,MJ-eq
+Q08,improved_pue,single,coolant_supply,CC,0.8236599697036489,kg,2.0,1.6473199394072977,kg CO2-eq
+Q08,improved_pue,single,coolant_supply,HTC,0.8236599697036489,kg,2e-08,1.6473199394072978e-08,CTUh
+Q08,improved_pue,single,coolant_supply,CED,0.8236599697036489,kg,20.0,16.473199394072978,MJ-eq
+Q08,improved_pue,single,coolant_treatment,CC,12.480000000000002,kg,0.5,6.240000000000001,kg CO2-eq
+Q08,improved_pue,single,coolant_treatment,HTC,12.480000000000002,kg,1e-08,1.2480000000000003e-07,CTUh
+Q08,improved_pue,single,coolant_treatment,CED,12.480000000000002,kg,5.0,62.40000000000001,MJ-eq
+Q08,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q08,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q08,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q08,improved_pue,single,cooling_electricity,CC,7453.555199999996,kWh,0.4,2981.4220799999985,kg CO2-eq
+Q08,improved_pue,single,cooling_electricity,HTC,7453.555199999996,kWh,1e-08,7.453555199999997e-05,CTUh
+Q08,improved_pue,single,cooling_electricity,CED,7453.555199999996,kWh,8.0,59628.44159999997,MJ-eq
+Q09,improved_pue,single,coolant_supply,CC,87.6134338368319,kg,2.0,175.2268676736638,kg CO2-eq
+Q09,improved_pue,single,coolant_supply,HTC,87.6134338368319,kg,2e-08,1.752268676736638e-06,CTUh
+Q09,improved_pue,single,coolant_supply,CED,87.6134338368319,kg,20.0,1752.268676736638,MJ-eq
+Q09,improved_pue,single,coolant_treatment,CC,56.16000000000001,kg,0.5,28.080000000000005,kg CO2-eq
+Q09,improved_pue,single,coolant_treatment,HTC,56.16000000000001,kg,1e-08,5.616000000000002e-07,CTUh
+Q09,improved_pue,single,coolant_treatment,CED,56.16000000000001,kg,5.0,280.80000000000007,MJ-eq
+Q09,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q09,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q09,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q09,improved_pue,single,cooling_electricity,CC,8194.867199999995,kWh,0.4,3277.946879999998,kg CO2-eq
+Q09,improved_pue,single,cooling_electricity,HTC,8194.867199999995,kWh,1e-08,8.194867199999995e-05,CTUh
+Q09,improved_pue,single,cooling_electricity,CED,8194.867199999995,kWh,8.0,65558.93759999996,MJ-eq
+Q10,improved_pue,single,coolant_supply,CC,38.32701842891163,kg,2.0,76.65403685782326,kg CO2-eq
+Q10,improved_pue,single,coolant_supply,HTC,38.32701842891163,kg,2e-08,7.665403685782325e-07,CTUh
+Q10,improved_pue,single,coolant_supply,CED,38.32701842891163,kg,20.0,766.5403685782326,MJ-eq
+Q10,improved_pue,single,coolant_treatment,CC,24.960000000000004,kg,0.5,12.480000000000002,kg CO2-eq
+Q10,improved_pue,single,coolant_treatment,HTC,24.960000000000004,kg,1e-08,2.4960000000000006e-07,CTUh
+Q10,improved_pue,single,coolant_treatment,CED,24.960000000000004,kg,5.0,124.80000000000003,MJ-eq
+Q10,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q10,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q10,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q10,improved_pue,single,cooling_electricity,CC,9987.494399999994,kWh,0.4,3994.997759999998,kg CO2-eq
+Q10,improved_pue,single,cooling_electricity,HTC,9987.494399999994,kWh,1e-08,9.987494399999994e-05,CTUh
+Q10,improved_pue,single,cooling_electricity,CED,9987.494399999994,kWh,8.0,79899.95519999995,MJ-eq
+Q11,improved_pue,single,coolant_supply,CC,13.747169184159462,kg,2.0,27.494338368318925,kg CO2-eq
+Q11,improved_pue,single,coolant_supply,HTC,13.747169184159462,kg,2e-08,2.7494338368318924e-07,CTUh
+Q11,improved_pue,single,coolant_supply,CED,13.747169184159462,kg,20.0,274.94338368318927,MJ-eq
+Q11,improved_pue,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q11,improved_pue,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q11,improved_pue,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q11,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q11,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q11,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q11,improved_pue,single,cooling_electricity,CC,11038.809599999993,kWh,0.4,4415.523839999997,kg CO2-eq
+Q11,improved_pue,single,cooling_electricity,HTC,11038.809599999993,kWh,1e-08,0.00011038809599999993,CTUh
+Q11,improved_pue,single,cooling_electricity,CED,11038.809599999993,kWh,8.0,88310.47679999995,MJ-eq
+Q12,improved_pue,single,coolant_supply,CC,13.873886102575408,kg,2.0,27.747772205150817,kg CO2-eq
+Q12,improved_pue,single,coolant_supply,HTC,13.873886102575408,kg,2e-08,2.774777220515082e-07,CTUh
+Q12,improved_pue,single,coolant_supply,CED,13.873886102575408,kg,20.0,277.4777220515082,MJ-eq
+Q12,improved_pue,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q12,improved_pue,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q12,improved_pue,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q12,improved_pue,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q12,improved_pue,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q12,improved_pue,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q12,improved_pue,single,cooling_electricity,CC,12090.124799999994,kWh,0.4,4836.049919999998,kg CO2-eq
+Q12,improved_pue,single,cooling_electricity,HTC,12090.124799999994,kWh,1e-08,0.00012090124799999994,CTUh
+Q12,improved_pue,single,cooling_electricity,CED,12090.124799999994,kWh,8.0,96720.99839999995,MJ-eq
+Q01,improved_pue,two,coolant_supply,CC,43.68,kg,4.0,174.72,kg CO2-eq
+Q01,improved_pue,two,coolant_supply,HTC,43.68,kg,4e-08,1.7472e-06,CTUh
+Q01,improved_pue,two,coolant_supply,CED,43.68,kg,30.0,1310.4,MJ-eq
+Q01,improved_pue,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q01,improved_pue,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q01,improved_pue,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q01,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q01,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q01,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q01,improved_pue,two,cooling_electricity,CC,943.4880000000007,kWh,0.4,377.39520000000033,kg CO2-eq
+Q01,improved_pue,two,cooling_electricity,HTC,943.4880000000007,kWh,1e-08,9.434880000000007e-06,CTUh
+Q01,improved_pue,two,cooling_electricity,CED,943.4880000000007,kWh,8.0,7547.904000000006,MJ-eq
+Q02,improved_pue,two,coolant_supply,CC,13.38110261686277,kg,4.0,53.52441046745108,kg CO2-eq
+Q02,improved_pue,two,coolant_supply,HTC,13.38110261686277,kg,4e-08,5.352441046745107e-07,CTUh
+Q02,improved_pue,two,coolant_supply,CED,13.38110261686277,kg,30.0,401.4330785058831,MJ-eq
+Q02,improved_pue,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q02,improved_pue,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q02,improved_pue,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q02,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q02,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q02,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q02,improved_pue,two,cooling_electricity,CC,2149.8048000000017,kWh,0.4,859.9219200000007,kg CO2-eq
+Q02,improved_pue,two,cooling_electricity,HTC,2149.8048000000017,kWh,1e-08,2.1498048000000018e-05,CTUh
+Q02,improved_pue,two,cooling_electricity,CED,2149.8048000000017,kWh,8.0,17198.438400000014,MJ-eq
+Q03,improved_pue,two,coolant_supply,CC,13.638560507394988,kg,4.0,54.55424202957995,kg CO2-eq
+Q03,improved_pue,two,coolant_supply,HTC,13.638560507394988,kg,4e-08,5.455424202957995e-07,CTUh
+Q03,improved_pue,two,coolant_supply,CED,13.638560507394988,kg,30.0,409.1568152218496,MJ-eq
+Q03,improved_pue,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q03,improved_pue,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q03,improved_pue,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q03,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q03,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q03,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q03,improved_pue,two,cooling_electricity,CC,2675.462400000002,kWh,0.4,1070.184960000001,kg CO2-eq
+Q03,improved_pue,two,cooling_electricity,HTC,2675.462400000002,kWh,1e-08,2.6754624000000022e-05,CTUh
+Q03,improved_pue,two,cooling_electricity,CED,2675.462400000002,kWh,8.0,21403.699200000017,MJ-eq
+Q04,improved_pue,two,coolant_supply,CC,13.896018397927207,kg,4.0,55.58407359170883,kg CO2-eq
+Q04,improved_pue,two,coolant_supply,HTC,13.896018397927207,kg,4e-08,5.558407359170883e-07,CTUh
+Q04,improved_pue,two,coolant_supply,CED,13.896018397927207,kg,30.0,416.8805519378162,MJ-eq
+Q04,improved_pue,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q04,improved_pue,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q04,improved_pue,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q04,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q04,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q04,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q04,improved_pue,two,cooling_electricity,CC,3201.1200000000026,kWh,0.4,1280.4480000000012,kg CO2-eq
+Q04,improved_pue,two,cooling_electricity,HTC,3201.1200000000026,kWh,1e-08,3.201120000000003e-05,CTUh
+Q04,improved_pue,two,cooling_electricity,CED,3201.1200000000026,kWh,8.0,25608.96000000002,MJ-eq
+Q05,improved_pue,two,coolant_supply,CC,56.932373671596665,kg,4.0,227.72949468638666,kg CO2-eq
+Q05,improved_pue,two,coolant_supply,HTC,56.932373671596665,kg,4e-08,2.2772949468638667e-06,CTUh
+Q05,improved_pue,two,coolant_supply,CED,56.932373671596665,kg,30.0,1707.9712101479,MJ-eq
+Q05,improved_pue,two,coolant_treatment,CC,43.68,kg,0.8,34.944,kg CO2-eq
+Q05,improved_pue,two,coolant_treatment,HTC,43.68,kg,2e-08,8.736e-07,CTUh
+Q05,improved_pue,two,coolant_treatment,CED,43.68,kg,7.0,305.76,MJ-eq
+Q05,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q05,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q05,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q05,improved_pue,two,cooling_electricity,CC,3726.7776000000035,kWh,0.4,1490.7110400000015,kg CO2-eq
+Q05,improved_pue,two,cooling_electricity,HTC,3726.7776000000035,kWh,1e-08,3.726777600000004e-05,CTUh
+Q05,improved_pue,two,cooling_electricity,CED,3726.7776000000035,kWh,8.0,29814.22080000003,MJ-eq
+Q06,improved_pue,two,coolant_supply,CC,26.633476288459427,kg,4.0,106.53390515383771,kg CO2-eq
+Q06,improved_pue,two,coolant_supply,HTC,26.633476288459427,kg,4e-08,1.0653390515383772e-06,CTUh
+Q06,improved_pue,two,coolant_supply,CED,26.633476288459427,kg,30.0,799.0042886537829,MJ-eq
+Q06,improved_pue,two,coolant_treatment,CC,12.48,kg,0.8,9.984000000000002,kg CO2-eq
+Q06,improved_pue,two,coolant_treatment,HTC,12.48,kg,2e-08,2.496e-07,CTUh
+Q06,improved_pue,two,coolant_treatment,CED,12.48,kg,7.0,87.36,MJ-eq
+Q06,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q06,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q06,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q06,improved_pue,two,cooling_electricity,CC,4252.4352000000035,kWh,0.4,1700.9740800000015,kg CO2-eq
+Q06,improved_pue,two,cooling_electricity,HTC,4252.4352000000035,kWh,1e-08,4.252435200000004e-05,CTUh
+Q06,improved_pue,two,cooling_electricity,CED,4252.4352000000035,kWh,8.0,34019.48160000003,MJ-eq
+Q07,improved_pue,two,coolant_supply,CC,1.930934178991647,kg,4.0,7.723736715966588,kg CO2-eq
+Q07,improved_pue,two,coolant_supply,HTC,1.930934178991647,kg,4e-08,7.723736715966588e-08,CTUh
+Q07,improved_pue,two,coolant_supply,CED,1.930934178991647,kg,30.0,57.928025369749406,MJ-eq
+Q07,improved_pue,two,coolant_treatment,CC,12.48,kg,0.8,9.984000000000002,kg CO2-eq
+Q07,improved_pue,two,coolant_treatment,HTC,12.48,kg,2e-08,2.496e-07,CTUh
+Q07,improved_pue,two,coolant_treatment,CED,12.48,kg,7.0,87.36,MJ-eq
+Q07,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q07,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q07,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q07,improved_pue,two,cooling_electricity,CC,4252.4352000000035,kWh,0.4,1700.9740800000015,kg CO2-eq
+Q07,improved_pue,two,cooling_electricity,HTC,4252.4352000000035,kWh,1e-08,4.252435200000004e-05,CTUh
+Q07,improved_pue,two,cooling_electricity,CED,4252.4352000000035,kWh,8.0,34019.48160000003,MJ-eq
+Q08,improved_pue,two,coolant_supply,CC,1.6734762884594276,kg,4.0,6.693905153837711,kg CO2-eq
+Q08,improved_pue,two,coolant_supply,HTC,1.6734762884594276,kg,4e-08,6.693905153837711e-08,CTUh
+Q08,improved_pue,two,coolant_supply,CED,1.6734762884594276,kg,30.0,50.20428865378283,MJ-eq
+Q08,improved_pue,two,coolant_treatment,CC,12.48,kg,0.8,9.984000000000002,kg CO2-eq
+Q08,improved_pue,two,coolant_treatment,HTC,12.48,kg,2e-08,2.496e-07,CTUh
+Q08,improved_pue,two,coolant_treatment,CED,12.48,kg,7.0,87.36,MJ-eq
+Q08,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q08,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q08,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q08,improved_pue,two,cooling_electricity,CC,3726.7776000000035,kWh,0.4,1490.7110400000015,kg CO2-eq
+Q08,improved_pue,two,cooling_electricity,HTC,3726.7776000000035,kWh,1e-08,3.726777600000004e-05,CTUh
+Q08,improved_pue,two,cooling_electricity,CED,3726.7776000000035,kWh,8.0,29814.22080000003,MJ-eq
+Q09,improved_pue,two,coolant_supply,CC,87.87491578106444,kg,4.0,351.4996631242578,kg CO2-eq
+Q09,improved_pue,two,coolant_supply,HTC,87.87491578106444,kg,4e-08,3.514996631242578e-06,CTUh
+Q09,improved_pue,two,coolant_supply,CED,87.87491578106444,kg,30.0,2636.2474734319335,MJ-eq
+Q09,improved_pue,two,coolant_treatment,CC,56.160000000000004,kg,0.8,44.928000000000004,kg CO2-eq
+Q09,improved_pue,two,coolant_treatment,HTC,56.160000000000004,kg,2e-08,1.1232e-06,CTUh
+Q09,improved_pue,two,coolant_treatment,CED,56.160000000000004,kg,7.0,393.12,MJ-eq
+Q09,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q09,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q09,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q09,improved_pue,two,cooling_electricity,CC,4097.433600000004,kWh,0.4,1638.9734400000016,kg CO2-eq
+Q09,improved_pue,two,cooling_electricity,HTC,4097.433600000004,kWh,1e-08,4.097433600000004e-05,CTUh
+Q09,improved_pue,two,cooling_electricity,CED,4097.433600000004,kWh,8.0,32779.46880000003,MJ-eq
+Q10,improved_pue,two,coolant_supply,CC,39.242205233725535,kg,4.0,156.96882093490214,kg CO2-eq
+Q10,improved_pue,two,coolant_supply,HTC,39.242205233725535,kg,4e-08,1.5696882093490215e-06,CTUh
+Q10,improved_pue,two,coolant_supply,CED,39.242205233725535,kg,30.0,1177.2661570117662,MJ-eq
+Q10,improved_pue,two,coolant_treatment,CC,24.96,kg,0.8,19.968000000000004,kg CO2-eq
+Q10,improved_pue,two,coolant_treatment,HTC,24.96,kg,2e-08,4.992e-07,CTUh
+Q10,improved_pue,two,coolant_treatment,CED,24.96,kg,7.0,174.72,MJ-eq
+Q10,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q10,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q10,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q10,improved_pue,two,cooling_electricity,CC,4993.747200000004,kWh,0.4,1997.498880000002,kg CO2-eq
+Q10,improved_pue,two,cooling_electricity,HTC,4993.747200000004,kWh,1e-08,4.9937472000000045e-05,CTUh
+Q10,improved_pue,two,cooling_electricity,CED,4993.747200000004,kWh,8.0,39949.977600000035,MJ-eq
+Q11,improved_pue,two,coolant_supply,CC,15.054578905322197,kg,4.0,60.21831562128879,kg CO2-eq
+Q11,improved_pue,two,coolant_supply,HTC,15.054578905322197,kg,4e-08,6.021831562128879e-07,CTUh
+Q11,improved_pue,two,coolant_supply,CED,15.054578905322197,kg,30.0,451.6373671596659,MJ-eq
+Q11,improved_pue,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q11,improved_pue,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q11,improved_pue,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q11,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q11,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q11,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q11,improved_pue,two,cooling_electricity,CC,5519.404800000005,kWh,0.4,2207.761920000002,kg CO2-eq
+Q11,improved_pue,two,cooling_electricity,HTC,5519.404800000005,kWh,1e-08,5.5194048000000046e-05,CTUh
+Q11,improved_pue,two,cooling_electricity,CED,5519.404800000005,kWh,8.0,44155.23840000004,MJ-eq
+Q12,improved_pue,two,coolant_supply,CC,15.312036795854416,kg,4.0,61.248147183417665,kg CO2-eq
+Q12,improved_pue,two,coolant_supply,HTC,15.312036795854416,kg,4e-08,6.124814718341767e-07,CTUh
+Q12,improved_pue,two,coolant_supply,CED,15.312036795854416,kg,30.0,459.36110387563247,MJ-eq
+Q12,improved_pue,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q12,improved_pue,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q12,improved_pue,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q12,improved_pue,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q12,improved_pue,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q12,improved_pue,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q12,improved_pue,two,cooling_electricity,CC,6045.062400000005,kWh,0.4,2418.024960000002,kg CO2-eq
+Q12,improved_pue,two,cooling_electricity,HTC,6045.062400000005,kWh,1e-08,6.0450624000000053e-05,CTUh
+Q12,improved_pue,two,cooling_electricity,CED,6045.062400000005,kWh,8.0,48360.49920000004,MJ-eq
+Q01,lower_coolant_intensity,single,coolant_supply,CC,32.760000000000005,kg,2.0,65.52000000000001,kg CO2-eq
+Q01,lower_coolant_intensity,single,coolant_supply,HTC,32.760000000000005,kg,2e-08,6.552000000000001e-07,CTUh
+Q01,lower_coolant_intensity,single,coolant_supply,CED,32.760000000000005,kg,20.0,655.2,MJ-eq
+Q01,lower_coolant_intensity,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q01,lower_coolant_intensity,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q01,lower_coolant_intensity,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q01,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q01,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q01,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q01,lower_coolant_intensity,single,cooling_electricity,CC,2358.7199999999993,kWh,0.4,943.4879999999998,kg CO2-eq
+Q01,lower_coolant_intensity,single,cooling_electricity,HTC,2358.7199999999993,kWh,1e-08,2.3587199999999993e-05,CTUh
+Q01,lower_coolant_intensity,single,cooling_electricity,CED,2358.7199999999993,kWh,8.0,18869.759999999995,MJ-eq
+Q02,lower_coolant_intensity,single,coolant_supply,CC,9.69263191084186,kg,2.0,19.38526382168372,kg CO2-eq
+Q02,lower_coolant_intensity,single,coolant_supply,HTC,9.69263191084186,kg,2e-08,1.938526382168372e-07,CTUh
+Q02,lower_coolant_intensity,single,coolant_supply,CED,9.69263191084186,kg,20.0,193.8526382168372,MJ-eq
+Q02,lower_coolant_intensity,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q02,lower_coolant_intensity,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q02,lower_coolant_intensity,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q02,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q02,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q02,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q02,lower_coolant_intensity,single,cooling_electricity,CC,5374.511999999998,kWh,0.4,2149.8047999999994,kg CO2-eq
+Q02,lower_coolant_intensity,single,cooling_electricity,HTC,5374.511999999998,kWh,1e-08,5.374511999999998e-05,CTUh
+Q02,lower_coolant_intensity,single,cooling_electricity,CED,5374.511999999998,kWh,8.0,42996.09599999998,MJ-eq
+Q03,lower_coolant_intensity,single,coolant_supply,CC,9.78766959965382,kg,2.0,19.57533919930764,kg CO2-eq
+Q03,lower_coolant_intensity,single,coolant_supply,HTC,9.78766959965382,kg,2e-08,1.957533919930764e-07,CTUh
+Q03,lower_coolant_intensity,single,coolant_supply,CED,9.78766959965382,kg,20.0,195.75339199307638,MJ-eq
+Q03,lower_coolant_intensity,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q03,lower_coolant_intensity,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q03,lower_coolant_intensity,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q03,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q03,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q03,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q03,lower_coolant_intensity,single,cooling_electricity,CC,6688.655999999998,kWh,0.4,2675.4623999999994,kg CO2-eq
+Q03,lower_coolant_intensity,single,cooling_electricity,HTC,6688.655999999998,kWh,1e-08,6.688655999999998e-05,CTUh
+Q03,lower_coolant_intensity,single,cooling_electricity,CED,6688.655999999998,kWh,8.0,53509.247999999985,MJ-eq
+Q04,lower_coolant_intensity,single,coolant_supply,CC,9.882707288465777,kg,2.0,19.765414576931555,kg CO2-eq
+Q04,lower_coolant_intensity,single,coolant_supply,HTC,9.882707288465777,kg,2e-08,1.9765414576931556e-07,CTUh
+Q04,lower_coolant_intensity,single,coolant_supply,CED,9.882707288465777,kg,20.0,197.65414576931556,MJ-eq
+Q04,lower_coolant_intensity,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q04,lower_coolant_intensity,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q04,lower_coolant_intensity,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q04,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q04,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q04,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q04,lower_coolant_intensity,single,cooling_electricity,CC,8002.799999999998,kWh,0.4,3201.1199999999994,kg CO2-eq
+Q04,lower_coolant_intensity,single,cooling_electricity,HTC,8002.799999999998,kWh,1e-08,8.002799999999999e-05,CTUh
+Q04,lower_coolant_intensity,single,cooling_electricity,CED,8002.799999999998,kWh,8.0,64022.39999999999,MJ-eq
+Q05,lower_coolant_intensity,single,coolant_supply,CC,42.40511306643588,kg,2.0,84.81022613287176,kg CO2-eq
+Q05,lower_coolant_intensity,single,coolant_supply,HTC,42.40511306643588,kg,2e-08,8.481022613287176e-07,CTUh
+Q05,lower_coolant_intensity,single,coolant_supply,CED,42.40511306643588,kg,20.0,848.1022613287176,MJ-eq
+Q05,lower_coolant_intensity,single,coolant_treatment,CC,32.760000000000005,kg,0.5,16.380000000000003,kg CO2-eq
+Q05,lower_coolant_intensity,single,coolant_treatment,HTC,32.760000000000005,kg,1e-08,3.2760000000000005e-07,CTUh
+Q05,lower_coolant_intensity,single,coolant_treatment,CED,32.760000000000005,kg,5.0,163.8,MJ-eq
+Q05,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q05,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q05,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q05,lower_coolant_intensity,single,cooling_electricity,CC,9316.943999999998,kWh,0.4,3726.7775999999994,kg CO2-eq
+Q05,lower_coolant_intensity,single,cooling_electricity,HTC,9316.943999999998,kWh,1e-08,9.316943999999998e-05,CTUh
+Q05,lower_coolant_intensity,single,cooling_electricity,CED,9316.943999999998,kWh,8.0,74535.55199999998,MJ-eq
+Q06,lower_coolant_intensity,single,coolant_supply,CC,19.33774497727774,kg,2.0,38.67548995455548,kg CO2-eq
+Q06,lower_coolant_intensity,single,coolant_supply,HTC,19.33774497727774,kg,2e-08,3.8675489954555484e-07,CTUh
+Q06,lower_coolant_intensity,single,coolant_supply,CED,19.33774497727774,kg,20.0,386.7548995455548,MJ-eq
+Q06,lower_coolant_intensity,single,coolant_treatment,CC,9.360000000000001,kg,0.5,4.680000000000001,kg CO2-eq
+Q06,lower_coolant_intensity,single,coolant_treatment,HTC,9.360000000000001,kg,1e-08,9.360000000000002e-08,CTUh
+Q06,lower_coolant_intensity,single,coolant_treatment,CED,9.360000000000001,kg,5.0,46.800000000000004,MJ-eq
+Q06,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q06,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q06,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q06,lower_coolant_intensity,single,cooling_electricity,CC,10631.087999999998,kWh,0.4,4252.435199999999,kg CO2-eq
+Q06,lower_coolant_intensity,single,cooling_electricity,HTC,10631.087999999998,kWh,1e-08,0.00010631087999999998,CTUh
+Q06,lower_coolant_intensity,single,cooling_electricity,CED,10631.087999999998,kWh,8.0,85048.70399999998,MJ-eq
+Q07,lower_coolant_intensity,single,coolant_supply,CC,0.7127826660896961,kg,2.0,1.4255653321793922,kg CO2-eq
+Q07,lower_coolant_intensity,single,coolant_supply,HTC,0.7127826660896961,kg,2e-08,1.4255653321793922e-08,CTUh
+Q07,lower_coolant_intensity,single,coolant_supply,CED,0.7127826660896961,kg,20.0,14.255653321793922,MJ-eq
+Q07,lower_coolant_intensity,single,coolant_treatment,CC,9.360000000000001,kg,0.5,4.680000000000001,kg CO2-eq
+Q07,lower_coolant_intensity,single,coolant_treatment,HTC,9.360000000000001,kg,1e-08,9.360000000000002e-08,CTUh
+Q07,lower_coolant_intensity,single,coolant_treatment,CED,9.360000000000001,kg,5.0,46.800000000000004,MJ-eq
+Q07,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q07,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q07,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q07,lower_coolant_intensity,single,cooling_electricity,CC,10631.087999999998,kWh,0.4,4252.435199999999,kg CO2-eq
+Q07,lower_coolant_intensity,single,cooling_electricity,HTC,10631.087999999998,kWh,1e-08,0.00010631087999999998,CTUh
+Q07,lower_coolant_intensity,single,cooling_electricity,CED,10631.087999999998,kWh,8.0,85048.70399999998,MJ-eq
+Q08,lower_coolant_intensity,single,coolant_supply,CC,0.6177449772777365,kg,2.0,1.235489954555473,kg CO2-eq
+Q08,lower_coolant_intensity,single,coolant_supply,HTC,0.6177449772777365,kg,2e-08,1.235489954555473e-08,CTUh
+Q08,lower_coolant_intensity,single,coolant_supply,CED,0.6177449772777365,kg,20.0,12.35489954555473,MJ-eq
+Q08,lower_coolant_intensity,single,coolant_treatment,CC,9.360000000000001,kg,0.5,4.680000000000001,kg CO2-eq
+Q08,lower_coolant_intensity,single,coolant_treatment,HTC,9.360000000000001,kg,1e-08,9.360000000000002e-08,CTUh
+Q08,lower_coolant_intensity,single,coolant_treatment,CED,9.360000000000001,kg,5.0,46.800000000000004,MJ-eq
+Q08,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q08,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q08,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q08,lower_coolant_intensity,single,cooling_electricity,CC,9316.943999999998,kWh,0.4,3726.7775999999994,kg CO2-eq
+Q08,lower_coolant_intensity,single,cooling_electricity,HTC,9316.943999999998,kWh,1e-08,9.316943999999998e-05,CTUh
+Q08,lower_coolant_intensity,single,cooling_electricity,CED,9316.943999999998,kWh,8.0,74535.55199999998,MJ-eq
+Q09,lower_coolant_intensity,single,coolant_supply,CC,65.71007537762392,kg,2.0,131.42015075524785,kg CO2-eq
+Q09,lower_coolant_intensity,single,coolant_supply,HTC,65.71007537762392,kg,2e-08,1.3142015075524784e-06,CTUh
+Q09,lower_coolant_intensity,single,coolant_supply,CED,65.71007537762392,kg,20.0,1314.2015075524785,MJ-eq
+Q09,lower_coolant_intensity,single,coolant_treatment,CC,42.120000000000005,kg,0.5,21.060000000000002,kg CO2-eq
+Q09,lower_coolant_intensity,single,coolant_treatment,HTC,42.120000000000005,kg,1e-08,4.2120000000000004e-07,CTUh
+Q09,lower_coolant_intensity,single,coolant_treatment,CED,42.120000000000005,kg,5.0,210.60000000000002,MJ-eq
+Q09,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q09,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q09,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q09,lower_coolant_intensity,single,cooling_electricity,CC,10243.583999999997,kWh,0.4,4097.433599999999,kg CO2-eq
+Q09,lower_coolant_intensity,single,cooling_electricity,HTC,10243.583999999997,kWh,1e-08,0.00010243583999999997,CTUh
+Q09,lower_coolant_intensity,single,cooling_electricity,CED,10243.583999999997,kWh,8.0,81948.67199999998,MJ-eq
+Q10,lower_coolant_intensity,single,coolant_supply,CC,28.74526382168372,kg,2.0,57.49052764336744,kg CO2-eq
+Q10,lower_coolant_intensity,single,coolant_supply,HTC,28.74526382168372,kg,2e-08,5.749052764336745e-07,CTUh
+Q10,lower_coolant_intensity,single,coolant_supply,CED,28.74526382168372,kg,20.0,574.9052764336744,MJ-eq
+Q10,lower_coolant_intensity,single,coolant_treatment,CC,18.720000000000002,kg,0.5,9.360000000000001,kg CO2-eq
+Q10,lower_coolant_intensity,single,coolant_treatment,HTC,18.720000000000002,kg,1e-08,1.8720000000000004e-07,CTUh
+Q10,lower_coolant_intensity,single,coolant_treatment,CED,18.720000000000002,kg,5.0,93.60000000000001,MJ-eq
+Q10,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q10,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q10,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q10,lower_coolant_intensity,single,cooling_electricity,CC,12484.367999999997,kWh,0.4,4993.747199999999,kg CO2-eq
+Q10,lower_coolant_intensity,single,cooling_electricity,HTC,12484.367999999997,kWh,1e-08,0.00012484367999999996,CTUh
+Q10,lower_coolant_intensity,single,cooling_electricity,CED,12484.367999999997,kWh,8.0,99874.94399999997,MJ-eq
+Q11,lower_coolant_intensity,single,coolant_supply,CC,10.310376888119595,kg,2.0,20.62075377623919,kg CO2-eq
+Q11,lower_coolant_intensity,single,coolant_supply,HTC,10.310376888119595,kg,2e-08,2.0620753776239191e-07,CTUh
+Q11,lower_coolant_intensity,single,coolant_supply,CED,10.310376888119595,kg,20.0,206.2075377623919,MJ-eq
+Q11,lower_coolant_intensity,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q11,lower_coolant_intensity,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q11,lower_coolant_intensity,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q11,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q11,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q11,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q11,lower_coolant_intensity,single,cooling_electricity,CC,13798.511999999997,kWh,0.4,5519.404799999999,kg CO2-eq
+Q11,lower_coolant_intensity,single,cooling_electricity,HTC,13798.511999999997,kWh,1e-08,0.00013798511999999998,CTUh
+Q11,lower_coolant_intensity,single,cooling_electricity,CED,13798.511999999997,kWh,8.0,110388.09599999998,MJ-eq
+Q12,lower_coolant_intensity,single,coolant_supply,CC,10.405414576931555,kg,2.0,20.81082915386311,kg CO2-eq
+Q12,lower_coolant_intensity,single,coolant_supply,HTC,10.405414576931555,kg,2e-08,2.081082915386311e-07,CTUh
+Q12,lower_coolant_intensity,single,coolant_supply,CED,10.405414576931555,kg,20.0,208.1082915386311,MJ-eq
+Q12,lower_coolant_intensity,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q12,lower_coolant_intensity,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q12,lower_coolant_intensity,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q12,lower_coolant_intensity,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q12,lower_coolant_intensity,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q12,lower_coolant_intensity,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q12,lower_coolant_intensity,single,cooling_electricity,CC,15112.655999999997,kWh,0.4,6045.062399999999,kg CO2-eq
+Q12,lower_coolant_intensity,single,cooling_electricity,HTC,15112.655999999997,kWh,1e-08,0.00015112655999999997,CTUh
+Q12,lower_coolant_intensity,single,cooling_electricity,CED,15112.655999999997,kWh,8.0,120901.24799999998,MJ-eq
+Q01,lower_coolant_intensity,two,coolant_supply,CC,32.760000000000005,kg,4.0,131.04000000000002,kg CO2-eq
+Q01,lower_coolant_intensity,two,coolant_supply,HTC,32.760000000000005,kg,4e-08,1.3104000000000002e-06,CTUh
+Q01,lower_coolant_intensity,two,coolant_supply,CED,32.760000000000005,kg,30.0,982.8000000000002,MJ-eq
+Q01,lower_coolant_intensity,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q01,lower_coolant_intensity,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q01,lower_coolant_intensity,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q01,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q01,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q01,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q01,lower_coolant_intensity,two,cooling_electricity,CC,1179.3600000000008,kWh,0.4,471.74400000000037,kg CO2-eq
+Q01,lower_coolant_intensity,two,cooling_electricity,HTC,1179.3600000000008,kWh,1e-08,1.1793600000000009e-05,CTUh
+Q01,lower_coolant_intensity,two,cooling_electricity,CED,1179.3600000000008,kWh,8.0,9434.880000000006,MJ-eq
+Q02,lower_coolant_intensity,two,coolant_supply,CC,10.035826962647079,kg,4.0,40.143307850588315,kg CO2-eq
+Q02,lower_coolant_intensity,two,coolant_supply,HTC,10.035826962647079,kg,4e-08,4.0143307850588313e-07,CTUh
+Q02,lower_coolant_intensity,two,coolant_supply,CED,10.035826962647079,kg,30.0,301.07480887941233,MJ-eq
+Q02,lower_coolant_intensity,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q02,lower_coolant_intensity,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q02,lower_coolant_intensity,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q02,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q02,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q02,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q02,lower_coolant_intensity,two,cooling_electricity,CC,2687.256000000002,kWh,0.4,1074.9024000000009,kg CO2-eq
+Q02,lower_coolant_intensity,two,cooling_electricity,HTC,2687.256000000002,kWh,1e-08,2.6872560000000022e-05,CTUh
+Q02,lower_coolant_intensity,two,cooling_electricity,CED,2687.256000000002,kWh,8.0,21498.048000000017,MJ-eq
+Q03,lower_coolant_intensity,two,coolant_supply,CC,10.228920380546242,kg,4.0,40.91568152218497,kg CO2-eq
+Q03,lower_coolant_intensity,two,coolant_supply,HTC,10.228920380546242,kg,4e-08,4.091568152218497e-07,CTUh
+Q03,lower_coolant_intensity,two,coolant_supply,CED,10.228920380546242,kg,30.0,306.86761141638726,MJ-eq
+Q03,lower_coolant_intensity,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q03,lower_coolant_intensity,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q03,lower_coolant_intensity,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q03,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q03,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q03,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q03,lower_coolant_intensity,two,cooling_electricity,CC,3344.3280000000027,kWh,0.4,1337.731200000001,kg CO2-eq
+Q03,lower_coolant_intensity,two,cooling_electricity,HTC,3344.3280000000027,kWh,1e-08,3.3443280000000024e-05,CTUh
+Q03,lower_coolant_intensity,two,cooling_electricity,CED,3344.3280000000027,kWh,8.0,26754.62400000002,MJ-eq
+Q04,lower_coolant_intensity,two,coolant_supply,CC,10.422013798445407,kg,4.0,41.68805519378163,kg CO2-eq
+Q04,lower_coolant_intensity,two,coolant_supply,HTC,10.422013798445407,kg,4e-08,4.168805519378163e-07,CTUh
+Q04,lower_coolant_intensity,two,coolant_supply,CED,10.422013798445407,kg,30.0,312.6604139533622,MJ-eq
+Q04,lower_coolant_intensity,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q04,lower_coolant_intensity,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q04,lower_coolant_intensity,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q04,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q04,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q04,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q04,lower_coolant_intensity,two,cooling_electricity,CC,4001.4000000000037,kWh,0.4,1600.5600000000015,kg CO2-eq
+Q04,lower_coolant_intensity,two,cooling_electricity,HTC,4001.4000000000037,kWh,1e-08,4.001400000000004e-05,CTUh
+Q04,lower_coolant_intensity,two,cooling_electricity,CED,4001.4000000000037,kWh,8.0,32011.20000000003,MJ-eq
+Q05,lower_coolant_intensity,two,coolant_supply,CC,42.6992802536975,kg,4.0,170.79712101479,kg CO2-eq
+Q05,lower_coolant_intensity,two,coolant_supply,HTC,42.6992802536975,kg,4e-08,1.7079712101479002e-06,CTUh
+Q05,lower_coolant_intensity,two,coolant_supply,CED,42.6992802536975,kg,30.0,1280.9784076109252,MJ-eq
+Q05,lower_coolant_intensity,two,coolant_treatment,CC,32.760000000000005,kg,0.8,26.208000000000006,kg CO2-eq
+Q05,lower_coolant_intensity,two,coolant_treatment,HTC,32.760000000000005,kg,2e-08,6.552000000000001e-07,CTUh
+Q05,lower_coolant_intensity,two,coolant_treatment,CED,32.760000000000005,kg,7.0,229.32000000000005,MJ-eq
+Q05,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q05,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q05,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q05,lower_coolant_intensity,two,cooling_electricity,CC,4658.472000000004,kWh,0.4,1863.3888000000018,kg CO2-eq
+Q05,lower_coolant_intensity,two,cooling_electricity,HTC,4658.472000000004,kWh,1e-08,4.6584720000000043e-05,CTUh
+Q05,lower_coolant_intensity,two,cooling_electricity,CED,4658.472000000004,kWh,8.0,37267.776000000034,MJ-eq
+Q06,lower_coolant_intensity,two,coolant_supply,CC,19.975107216344572,kg,4.0,79.90042886537829,kg CO2-eq
+Q06,lower_coolant_intensity,two,coolant_supply,HTC,19.975107216344572,kg,4e-08,7.990042886537829e-07,CTUh
+Q06,lower_coolant_intensity,two,coolant_supply,CED,19.975107216344572,kg,30.0,599.2532164903372,MJ-eq
+Q06,lower_coolant_intensity,two,coolant_treatment,CC,9.360000000000001,kg,0.8,7.488000000000001,kg CO2-eq
+Q06,lower_coolant_intensity,two,coolant_treatment,HTC,9.360000000000001,kg,2e-08,1.8720000000000004e-07,CTUh
+Q06,lower_coolant_intensity,two,coolant_treatment,CED,9.360000000000001,kg,7.0,65.52000000000001,MJ-eq
+Q06,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q06,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q06,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q06,lower_coolant_intensity,two,cooling_electricity,CC,5315.544000000005,kWh,0.4,2126.217600000002,kg CO2-eq
+Q06,lower_coolant_intensity,two,cooling_electricity,HTC,5315.544000000005,kWh,1e-08,5.315544000000005e-05,CTUh
+Q06,lower_coolant_intensity,two,cooling_electricity,CED,5315.544000000005,kWh,8.0,42524.35200000004,MJ-eq
+Q07,lower_coolant_intensity,two,coolant_supply,CC,1.4482006342437357,kg,4.0,5.792802536974943,kg CO2-eq
+Q07,lower_coolant_intensity,two,coolant_supply,HTC,1.4482006342437357,kg,4e-08,5.792802536974943e-08,CTUh
+Q07,lower_coolant_intensity,two,coolant_supply,CED,1.4482006342437357,kg,30.0,43.44601902731207,MJ-eq
+Q07,lower_coolant_intensity,two,coolant_treatment,CC,9.360000000000001,kg,0.8,7.488000000000001,kg CO2-eq
+Q07,lower_coolant_intensity,two,coolant_treatment,HTC,9.360000000000001,kg,2e-08,1.8720000000000004e-07,CTUh
+Q07,lower_coolant_intensity,two,coolant_treatment,CED,9.360000000000001,kg,7.0,65.52000000000001,MJ-eq
+Q07,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q07,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q07,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q07,lower_coolant_intensity,two,cooling_electricity,CC,5315.544000000005,kWh,0.4,2126.217600000002,kg CO2-eq
+Q07,lower_coolant_intensity,two,cooling_electricity,HTC,5315.544000000005,kWh,1e-08,5.315544000000005e-05,CTUh
+Q07,lower_coolant_intensity,two,cooling_electricity,CED,5315.544000000005,kWh,8.0,42524.35200000004,MJ-eq
+Q08,lower_coolant_intensity,two,coolant_supply,CC,1.2551072163445707,kg,4.0,5.020428865378283,kg CO2-eq
+Q08,lower_coolant_intensity,two,coolant_supply,HTC,1.2551072163445707,kg,4e-08,5.020428865378283e-08,CTUh
+Q08,lower_coolant_intensity,two,coolant_supply,CED,1.2551072163445707,kg,30.0,37.65321649033712,MJ-eq
+Q08,lower_coolant_intensity,two,coolant_treatment,CC,9.360000000000001,kg,0.8,7.488000000000001,kg CO2-eq
+Q08,lower_coolant_intensity,two,coolant_treatment,HTC,9.360000000000001,kg,2e-08,1.8720000000000004e-07,CTUh
+Q08,lower_coolant_intensity,two,coolant_treatment,CED,9.360000000000001,kg,7.0,65.52000000000001,MJ-eq
+Q08,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q08,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q08,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q08,lower_coolant_intensity,two,cooling_electricity,CC,4658.472000000004,kWh,0.4,1863.3888000000018,kg CO2-eq
+Q08,lower_coolant_intensity,two,cooling_electricity,HTC,4658.472000000004,kWh,1e-08,4.6584720000000043e-05,CTUh
+Q08,lower_coolant_intensity,two,cooling_electricity,CED,4658.472000000004,kWh,8.0,37267.776000000034,MJ-eq
+Q09,lower_coolant_intensity,two,coolant_supply,CC,65.90618683579834,kg,4.0,263.62474734319335,kg CO2-eq
+Q09,lower_coolant_intensity,two,coolant_supply,HTC,65.90618683579834,kg,4e-08,2.6362474734319334e-06,CTUh
+Q09,lower_coolant_intensity,two,coolant_supply,CED,65.90618683579834,kg,30.0,1977.1856050739502,MJ-eq
+Q09,lower_coolant_intensity,two,coolant_treatment,CC,42.120000000000005,kg,0.8,33.696000000000005,kg CO2-eq
+Q09,lower_coolant_intensity,two,coolant_treatment,HTC,42.120000000000005,kg,2e-08,8.424000000000001e-07,CTUh
+Q09,lower_coolant_intensity,two,coolant_treatment,CED,42.120000000000005,kg,7.0,294.84000000000003,MJ-eq
+Q09,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q09,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q09,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q09,lower_coolant_intensity,two,cooling_electricity,CC,5121.792000000004,kWh,0.4,2048.7168000000015,kg CO2-eq
+Q09,lower_coolant_intensity,two,cooling_electricity,HTC,5121.792000000004,kWh,1e-08,5.121792000000004e-05,CTUh
+Q09,lower_coolant_intensity,two,cooling_electricity,CED,5121.792000000004,kWh,8.0,40974.33600000003,MJ-eq
+Q10,lower_coolant_intensity,two,coolant_supply,CC,29.43165392529416,kg,4.0,117.72661570117664,kg CO2-eq
+Q10,lower_coolant_intensity,two,coolant_supply,HTC,29.43165392529416,kg,4e-08,1.1772661570117664e-06,CTUh
+Q10,lower_coolant_intensity,two,coolant_supply,CED,29.43165392529416,kg,30.0,882.9496177588248,MJ-eq
+Q10,lower_coolant_intensity,two,coolant_treatment,CC,18.720000000000002,kg,0.8,14.976000000000003,kg CO2-eq
+Q10,lower_coolant_intensity,two,coolant_treatment,HTC,18.720000000000002,kg,2e-08,3.7440000000000007e-07,CTUh
+Q10,lower_coolant_intensity,two,coolant_treatment,CED,18.720000000000002,kg,7.0,131.04000000000002,MJ-eq
+Q10,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q10,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q10,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q10,lower_coolant_intensity,two,cooling_electricity,CC,6242.184000000005,kWh,0.4,2496.873600000002,kg CO2-eq
+Q10,lower_coolant_intensity,two,cooling_electricity,HTC,6242.184000000005,kWh,1e-08,6.242184000000005e-05,CTUh
+Q10,lower_coolant_intensity,two,cooling_electricity,CED,6242.184000000005,kWh,8.0,49937.47200000004,MJ-eq
+Q11,lower_coolant_intensity,two,coolant_supply,CC,11.290934178991648,kg,4.0,45.16373671596659,kg CO2-eq
+Q11,lower_coolant_intensity,two,coolant_supply,HTC,11.290934178991648,kg,4e-08,4.5163736715966594e-07,CTUh
+Q11,lower_coolant_intensity,two,coolant_supply,CED,11.290934178991648,kg,30.0,338.72802536974945,MJ-eq
+Q11,lower_coolant_intensity,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q11,lower_coolant_intensity,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q11,lower_coolant_intensity,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q11,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q11,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q11,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q11,lower_coolant_intensity,two,cooling_electricity,CC,6899.256000000006,kWh,0.4,2759.7024000000024,kg CO2-eq
+Q11,lower_coolant_intensity,two,cooling_electricity,HTC,6899.256000000006,kWh,1e-08,6.899256000000006e-05,CTUh
+Q11,lower_coolant_intensity,two,cooling_electricity,CED,6899.256000000006,kWh,8.0,55194.048000000046,MJ-eq
+Q12,lower_coolant_intensity,two,coolant_supply,CC,11.484027596890813,kg,4.0,45.936110387563254,kg CO2-eq
+Q12,lower_coolant_intensity,two,coolant_supply,HTC,11.484027596890813,kg,4e-08,4.593611038756325e-07,CTUh
+Q12,lower_coolant_intensity,two,coolant_supply,CED,11.484027596890813,kg,30.0,344.5208279067244,MJ-eq
+Q12,lower_coolant_intensity,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q12,lower_coolant_intensity,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q12,lower_coolant_intensity,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q12,lower_coolant_intensity,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q12,lower_coolant_intensity,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q12,lower_coolant_intensity,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q12,lower_coolant_intensity,two,cooling_electricity,CC,7556.328000000007,kWh,0.4,3022.531200000003,kg CO2-eq
+Q12,lower_coolant_intensity,two,cooling_electricity,HTC,7556.328000000007,kWh,1e-08,7.556328000000007e-05,CTUh
+Q12,lower_coolant_intensity,two,cooling_electricity,CED,7556.328000000007,kWh,8.0,60450.624000000054,MJ-eq
+Q01,coolant_recovery,single,coolant_supply,CC,43.68000000000001,kg,2.0,87.36000000000001,kg CO2-eq
+Q01,coolant_recovery,single,coolant_supply,HTC,43.68000000000001,kg,2e-08,8.736000000000002e-07,CTUh
+Q01,coolant_recovery,single,coolant_supply,CED,43.68000000000001,kg,20.0,873.6000000000001,MJ-eq
+Q01,coolant_recovery,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q01,coolant_recovery,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q01,coolant_recovery,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q01,coolant_recovery,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q01,coolant_recovery,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q01,coolant_recovery,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q01,coolant_recovery,single,cooling_electricity,CC,2358.7199999999993,kWh,0.4,943.4879999999998,kg CO2-eq
+Q01,coolant_recovery,single,cooling_electricity,HTC,2358.7199999999993,kWh,1e-08,2.3587199999999993e-05,CTUh
+Q01,coolant_recovery,single,cooling_electricity,CED,2358.7199999999993,kWh,8.0,18869.759999999995,MJ-eq
+Q02,coolant_recovery,single,coolant_supply,CC,12.923509214455812,kg,2.0,25.847018428911625,kg CO2-eq
+Q02,coolant_recovery,single,coolant_supply,HTC,12.923509214455812,kg,2e-08,2.5847018428911626e-07,CTUh
+Q02,coolant_recovery,single,coolant_supply,CED,12.923509214455812,kg,20.0,258.4701842891162,MJ-eq
+Q02,coolant_recovery,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q02,coolant_recovery,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q02,coolant_recovery,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q02,coolant_recovery,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q02,coolant_recovery,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q02,coolant_recovery,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q02,coolant_recovery,single,cooling_electricity,CC,5374.511999999998,kWh,0.4,2149.8047999999994,kg CO2-eq
+Q02,coolant_recovery,single,cooling_electricity,HTC,5374.511999999998,kWh,1e-08,5.374511999999998e-05,CTUh
+Q02,coolant_recovery,single,cooling_electricity,CED,5374.511999999998,kWh,8.0,42996.09599999998,MJ-eq
+Q03,coolant_recovery,single,coolant_supply,CC,13.050226132871758,kg,2.0,26.100452265743517,kg CO2-eq
+Q03,coolant_recovery,single,coolant_supply,HTC,13.050226132871758,kg,2e-08,2.6100452265743517e-07,CTUh
+Q03,coolant_recovery,single,coolant_supply,CED,13.050226132871758,kg,20.0,261.0045226574352,MJ-eq
+Q03,coolant_recovery,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q03,coolant_recovery,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q03,coolant_recovery,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q03,coolant_recovery,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q03,coolant_recovery,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q03,coolant_recovery,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q03,coolant_recovery,single,cooling_electricity,CC,6688.655999999998,kWh,0.4,2675.4623999999994,kg CO2-eq
+Q03,coolant_recovery,single,cooling_electricity,HTC,6688.655999999998,kWh,1e-08,6.688655999999998e-05,CTUh
+Q03,coolant_recovery,single,cooling_electricity,CED,6688.655999999998,kWh,8.0,53509.247999999985,MJ-eq
+Q04,coolant_recovery,single,coolant_supply,CC,13.176943051287704,kg,2.0,26.35388610257541,kg CO2-eq
+Q04,coolant_recovery,single,coolant_supply,HTC,13.176943051287704,kg,2e-08,2.635388610257541e-07,CTUh
+Q04,coolant_recovery,single,coolant_supply,CED,13.176943051287704,kg,20.0,263.5388610257541,MJ-eq
+Q04,coolant_recovery,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q04,coolant_recovery,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q04,coolant_recovery,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q04,coolant_recovery,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q04,coolant_recovery,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q04,coolant_recovery,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q04,coolant_recovery,single,cooling_electricity,CC,8002.799999999998,kWh,0.4,3201.1199999999994,kg CO2-eq
+Q04,coolant_recovery,single,cooling_electricity,HTC,8002.799999999998,kWh,1e-08,8.002799999999999e-05,CTUh
+Q04,coolant_recovery,single,cooling_electricity,CED,8002.799999999998,kWh,8.0,64022.39999999999,MJ-eq
+Q05,coolant_recovery,single,coolant_supply,CC,30.33215075524785,kg,2.0,60.6643015104957,kg CO2-eq
+Q05,coolant_recovery,single,coolant_supply,HTC,30.33215075524785,kg,2e-08,6.06643015104957e-07,CTUh
+Q05,coolant_recovery,single,coolant_supply,CED,30.33215075524785,kg,20.0,606.6430151049569,MJ-eq
+Q05,coolant_recovery,single,coolant_treatment,CC,17.472000000000005,kg,0.5,8.736000000000002,kg CO2-eq
+Q05,coolant_recovery,single,coolant_treatment,HTC,17.472000000000005,kg,1e-08,1.7472000000000005e-07,CTUh
+Q05,coolant_recovery,single,coolant_treatment,CED,17.472000000000005,kg,5.0,87.36000000000003,MJ-eq
+Q05,coolant_recovery,single,coolant_recovery,CC,26.208000000000002,kg,0.2,5.241600000000001,kg CO2-eq
+Q05,coolant_recovery,single,coolant_recovery,HTC,26.208000000000002,kg,5e-09,1.3104000000000001e-07,CTUh
+Q05,coolant_recovery,single,coolant_recovery,CED,26.208000000000002,kg,3.0,78.62400000000001,MJ-eq
+Q05,coolant_recovery,single,cooling_electricity,CC,9316.943999999998,kWh,0.4,3726.7775999999994,kg CO2-eq
+Q05,coolant_recovery,single,cooling_electricity,HTC,9316.943999999998,kWh,1e-08,9.316943999999998e-05,CTUh
+Q05,coolant_recovery,single,cooling_electricity,CED,9316.943999999998,kWh,8.0,74535.55199999998,MJ-eq
+Q06,coolant_recovery,single,coolant_supply,CC,18.29565996970365,kg,2.0,36.5913199394073,kg CO2-eq
+Q06,coolant_recovery,single,coolant_supply,HTC,18.29565996970365,kg,2e-08,3.65913199394073e-07,CTUh
+Q06,coolant_recovery,single,coolant_supply,CED,18.29565996970365,kg,20.0,365.913199394073,MJ-eq
+Q06,coolant_recovery,single,coolant_treatment,CC,4.992000000000001,kg,0.5,2.4960000000000004,kg CO2-eq
+Q06,coolant_recovery,single,coolant_treatment,HTC,4.992000000000001,kg,1e-08,4.992000000000001e-08,CTUh
+Q06,coolant_recovery,single,coolant_treatment,CED,4.992000000000001,kg,5.0,24.960000000000004,MJ-eq
+Q06,coolant_recovery,single,coolant_recovery,CC,7.488000000000001,kg,0.2,1.4976000000000003,kg CO2-eq
+Q06,coolant_recovery,single,coolant_recovery,HTC,7.488000000000001,kg,5e-09,3.744000000000001e-08,CTUh
+Q06,coolant_recovery,single,coolant_recovery,CED,7.488000000000001,kg,3.0,22.464000000000006,MJ-eq
+Q06,coolant_recovery,single,cooling_electricity,CC,10631.087999999998,kWh,0.4,4252.435199999999,kg CO2-eq
+Q06,coolant_recovery,single,cooling_electricity,HTC,10631.087999999998,kWh,1e-08,0.00010631087999999998,CTUh
+Q06,coolant_recovery,single,cooling_electricity,CED,10631.087999999998,kWh,8.0,85048.70399999998,MJ-eq
+Q07,coolant_recovery,single,coolant_supply,CC,0.0,kg,2.0,0.0,kg CO2-eq
+Q07,coolant_recovery,single,coolant_supply,HTC,0.0,kg,2e-08,0.0,CTUh
+Q07,coolant_recovery,single,coolant_supply,CED,0.0,kg,20.0,0.0,MJ-eq
+Q07,coolant_recovery,single,coolant_treatment,CC,4.992000000000001,kg,0.5,2.4960000000000004,kg CO2-eq
+Q07,coolant_recovery,single,coolant_treatment,HTC,4.992000000000001,kg,1e-08,4.992000000000001e-08,CTUh
+Q07,coolant_recovery,single,coolant_treatment,CED,4.992000000000001,kg,5.0,24.960000000000004,MJ-eq
+Q07,coolant_recovery,single,coolant_recovery,CC,7.488000000000001,kg,0.2,1.4976000000000003,kg CO2-eq
+Q07,coolant_recovery,single,coolant_recovery,HTC,7.488000000000001,kg,5e-09,3.744000000000001e-08,CTUh
+Q07,coolant_recovery,single,coolant_recovery,CED,7.488000000000001,kg,3.0,22.464000000000006,MJ-eq
+Q07,coolant_recovery,single,cooling_electricity,CC,10631.087999999998,kWh,0.4,4252.435199999999,kg CO2-eq
+Q07,coolant_recovery,single,cooling_electricity,HTC,10631.087999999998,kWh,1e-08,0.00010631087999999998,CTUh
+Q07,coolant_recovery,single,cooling_electricity,CED,10631.087999999998,kWh,8.0,85048.70399999998,MJ-eq
+Q08,coolant_recovery,single,coolant_supply,CC,0.0,kg,2.0,0.0,kg CO2-eq
+Q08,coolant_recovery,single,coolant_supply,HTC,0.0,kg,2e-08,0.0,CTUh
+Q08,coolant_recovery,single,coolant_supply,CED,0.0,kg,20.0,0.0,MJ-eq
+Q08,coolant_recovery,single,coolant_treatment,CC,4.992000000000001,kg,0.5,2.4960000000000004,kg CO2-eq
+Q08,coolant_recovery,single,coolant_treatment,HTC,4.992000000000001,kg,1e-08,4.992000000000001e-08,CTUh
+Q08,coolant_recovery,single,coolant_treatment,CED,4.992000000000001,kg,5.0,24.960000000000004,MJ-eq
+Q08,coolant_recovery,single,coolant_recovery,CC,7.488000000000001,kg,0.2,1.4976000000000003,kg CO2-eq
+Q08,coolant_recovery,single,coolant_recovery,HTC,7.488000000000001,kg,5e-09,3.744000000000001e-08,CTUh
+Q08,coolant_recovery,single,coolant_recovery,CED,7.488000000000001,kg,3.0,22.464000000000006,MJ-eq
+Q08,coolant_recovery,single,cooling_electricity,CC,9316.943999999998,kWh,0.4,3726.7775999999994,kg CO2-eq
+Q08,coolant_recovery,single,cooling_electricity,HTC,9316.943999999998,kWh,1e-08,9.316943999999998e-05,CTUh
+Q08,coolant_recovery,single,cooling_electricity,CED,9316.943999999998,kWh,8.0,74535.55199999998,MJ-eq
+Q09,coolant_recovery,single,coolant_supply,CC,40.71547069465514,kg,2.0,81.43094138931028,kg CO2-eq
+Q09,coolant_recovery,single,coolant_supply,HTC,40.71547069465514,kg,2e-08,8.143094138931028e-07,CTUh
+Q09,coolant_recovery,single,coolant_supply,CED,40.71547069465514,kg,20.0,814.3094138931028,MJ-eq
+Q09,coolant_recovery,single,coolant_treatment,CC,22.464000000000006,kg,0.5,11.232000000000003,kg CO2-eq
+Q09,coolant_recovery,single,coolant_treatment,HTC,22.464000000000006,kg,1e-08,2.2464000000000006e-07,CTUh
+Q09,coolant_recovery,single,coolant_treatment,CED,22.464000000000006,kg,5.0,112.32000000000002,MJ-eq
+Q09,coolant_recovery,single,coolant_recovery,CC,33.696000000000005,kg,0.2,6.739200000000001,kg CO2-eq
+Q09,coolant_recovery,single,coolant_recovery,HTC,33.696000000000005,kg,5e-09,1.6848000000000004e-07,CTUh
+Q09,coolant_recovery,single,coolant_recovery,CED,33.696000000000005,kg,3.0,101.08800000000002,MJ-eq
+Q09,coolant_recovery,single,cooling_electricity,CC,10243.583999999997,kWh,0.4,4097.433599999999,kg CO2-eq
+Q09,coolant_recovery,single,cooling_electricity,HTC,10243.583999999997,kWh,1e-08,0.00010243583999999997,CTUh
+Q09,coolant_recovery,single,cooling_electricity,CED,10243.583999999997,kWh,8.0,81948.67199999998,MJ-eq
+Q10,coolant_recovery,single,coolant_supply,CC,23.351018428911626,kg,2.0,46.70203685782325,kg CO2-eq
+Q10,coolant_recovery,single,coolant_supply,HTC,23.351018428911626,kg,2e-08,4.670203685782325e-07,CTUh
+Q10,coolant_recovery,single,coolant_supply,CED,23.351018428911626,kg,20.0,467.02036857823254,MJ-eq
+Q10,coolant_recovery,single,coolant_treatment,CC,9.984000000000002,kg,0.5,4.992000000000001,kg CO2-eq
+Q10,coolant_recovery,single,coolant_treatment,HTC,9.984000000000002,kg,1e-08,9.984000000000003e-08,CTUh
+Q10,coolant_recovery,single,coolant_treatment,CED,9.984000000000002,kg,5.0,49.92000000000001,MJ-eq
+Q10,coolant_recovery,single,coolant_recovery,CC,14.976000000000003,kg,0.2,2.9952000000000005,kg CO2-eq
+Q10,coolant_recovery,single,coolant_recovery,HTC,14.976000000000003,kg,5e-09,7.488000000000002e-08,CTUh
+Q10,coolant_recovery,single,coolant_recovery,CED,14.976000000000003,kg,3.0,44.92800000000001,MJ-eq
+Q10,coolant_recovery,single,cooling_electricity,CC,12484.367999999997,kWh,0.4,4993.747199999999,kg CO2-eq
+Q10,coolant_recovery,single,cooling_electricity,HTC,12484.367999999997,kWh,1e-08,0.00012484367999999996,CTUh
+Q10,coolant_recovery,single,cooling_electricity,CED,12484.367999999997,kWh,8.0,99874.94399999997,MJ-eq
+Q11,coolant_recovery,single,coolant_supply,CC,13.747169184159462,kg,2.0,27.494338368318925,kg CO2-eq
+Q11,coolant_recovery,single,coolant_supply,HTC,13.747169184159462,kg,2e-08,2.7494338368318924e-07,CTUh
+Q11,coolant_recovery,single,coolant_supply,CED,13.747169184159462,kg,20.0,274.94338368318927,MJ-eq
+Q11,coolant_recovery,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q11,coolant_recovery,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q11,coolant_recovery,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q11,coolant_recovery,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q11,coolant_recovery,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q11,coolant_recovery,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q11,coolant_recovery,single,cooling_electricity,CC,13798.511999999997,kWh,0.4,5519.404799999999,kg CO2-eq
+Q11,coolant_recovery,single,cooling_electricity,HTC,13798.511999999997,kWh,1e-08,0.00013798511999999998,CTUh
+Q11,coolant_recovery,single,cooling_electricity,CED,13798.511999999997,kWh,8.0,110388.09599999998,MJ-eq
+Q12,coolant_recovery,single,coolant_supply,CC,13.873886102575408,kg,2.0,27.747772205150817,kg CO2-eq
+Q12,coolant_recovery,single,coolant_supply,HTC,13.873886102575408,kg,2e-08,2.774777220515082e-07,CTUh
+Q12,coolant_recovery,single,coolant_supply,CED,13.873886102575408,kg,20.0,277.4777220515082,MJ-eq
+Q12,coolant_recovery,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q12,coolant_recovery,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q12,coolant_recovery,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q12,coolant_recovery,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q12,coolant_recovery,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q12,coolant_recovery,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q12,coolant_recovery,single,cooling_electricity,CC,15112.655999999997,kWh,0.4,6045.062399999999,kg CO2-eq
+Q12,coolant_recovery,single,cooling_electricity,HTC,15112.655999999997,kWh,1e-08,0.00015112655999999997,CTUh
+Q12,coolant_recovery,single,cooling_electricity,CED,15112.655999999997,kWh,8.0,120901.24799999998,MJ-eq
+Q01,coolant_recovery,two,coolant_supply,CC,43.68,kg,4.0,174.72,kg CO2-eq
+Q01,coolant_recovery,two,coolant_supply,HTC,43.68,kg,4e-08,1.7472e-06,CTUh
+Q01,coolant_recovery,two,coolant_supply,CED,43.68,kg,30.0,1310.4,MJ-eq
+Q01,coolant_recovery,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q01,coolant_recovery,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q01,coolant_recovery,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q01,coolant_recovery,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q01,coolant_recovery,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q01,coolant_recovery,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q01,coolant_recovery,two,cooling_electricity,CC,1179.3600000000008,kWh,0.4,471.74400000000037,kg CO2-eq
+Q01,coolant_recovery,two,cooling_electricity,HTC,1179.3600000000008,kWh,1e-08,1.1793600000000009e-05,CTUh
+Q01,coolant_recovery,two,cooling_electricity,CED,1179.3600000000008,kWh,8.0,9434.880000000006,MJ-eq
+Q02,coolant_recovery,two,coolant_supply,CC,13.38110261686277,kg,4.0,53.52441046745108,kg CO2-eq
+Q02,coolant_recovery,two,coolant_supply,HTC,13.38110261686277,kg,4e-08,5.352441046745107e-07,CTUh
+Q02,coolant_recovery,two,coolant_supply,CED,13.38110261686277,kg,30.0,401.4330785058831,MJ-eq
+Q02,coolant_recovery,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q02,coolant_recovery,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q02,coolant_recovery,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q02,coolant_recovery,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q02,coolant_recovery,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q02,coolant_recovery,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q02,coolant_recovery,two,cooling_electricity,CC,2687.256000000002,kWh,0.4,1074.9024000000009,kg CO2-eq
+Q02,coolant_recovery,two,cooling_electricity,HTC,2687.256000000002,kWh,1e-08,2.6872560000000022e-05,CTUh
+Q02,coolant_recovery,two,cooling_electricity,CED,2687.256000000002,kWh,8.0,21498.048000000017,MJ-eq
+Q03,coolant_recovery,two,coolant_supply,CC,13.638560507394988,kg,4.0,54.55424202957995,kg CO2-eq
+Q03,coolant_recovery,two,coolant_supply,HTC,13.638560507394988,kg,4e-08,5.455424202957995e-07,CTUh
+Q03,coolant_recovery,two,coolant_supply,CED,13.638560507394988,kg,30.0,409.1568152218496,MJ-eq
+Q03,coolant_recovery,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q03,coolant_recovery,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q03,coolant_recovery,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q03,coolant_recovery,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q03,coolant_recovery,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q03,coolant_recovery,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q03,coolant_recovery,two,cooling_electricity,CC,3344.3280000000027,kWh,0.4,1337.731200000001,kg CO2-eq
+Q03,coolant_recovery,two,cooling_electricity,HTC,3344.3280000000027,kWh,1e-08,3.3443280000000024e-05,CTUh
+Q03,coolant_recovery,two,cooling_electricity,CED,3344.3280000000027,kWh,8.0,26754.62400000002,MJ-eq
+Q04,coolant_recovery,two,coolant_supply,CC,13.896018397927207,kg,4.0,55.58407359170883,kg CO2-eq
+Q04,coolant_recovery,two,coolant_supply,HTC,13.896018397927207,kg,4e-08,5.558407359170883e-07,CTUh
+Q04,coolant_recovery,two,coolant_supply,CED,13.896018397927207,kg,30.0,416.8805519378162,MJ-eq
+Q04,coolant_recovery,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q04,coolant_recovery,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q04,coolant_recovery,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q04,coolant_recovery,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q04,coolant_recovery,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q04,coolant_recovery,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q04,coolant_recovery,two,cooling_electricity,CC,4001.4000000000037,kWh,0.4,1600.5600000000015,kg CO2-eq
+Q04,coolant_recovery,two,cooling_electricity,HTC,4001.4000000000037,kWh,1e-08,4.001400000000004e-05,CTUh
+Q04,coolant_recovery,two,cooling_electricity,CED,4001.4000000000037,kWh,8.0,32011.20000000003,MJ-eq
+Q05,coolant_recovery,two,coolant_supply,CC,30.724373671596666,kg,4.0,122.89749468638666,kg CO2-eq
+Q05,coolant_recovery,two,coolant_supply,HTC,30.724373671596666,kg,4e-08,1.2289749468638666e-06,CTUh
+Q05,coolant_recovery,two,coolant_supply,CED,30.724373671596666,kg,30.0,921.7312101479,MJ-eq
+Q05,coolant_recovery,two,coolant_treatment,CC,17.472,kg,0.8,13.977600000000002,kg CO2-eq
+Q05,coolant_recovery,two,coolant_treatment,HTC,17.472,kg,2e-08,3.4944000000000004e-07,CTUh
+Q05,coolant_recovery,two,coolant_treatment,CED,17.472,kg,7.0,122.304,MJ-eq
+Q05,coolant_recovery,two,coolant_recovery,CC,26.208,kg,0.3,7.862399999999999,kg CO2-eq
+Q05,coolant_recovery,two,coolant_recovery,HTC,26.208,kg,8e-09,2.09664e-07,CTUh
+Q05,coolant_recovery,two,coolant_recovery,CED,26.208,kg,4.0,104.832,MJ-eq
+Q05,coolant_recovery,two,cooling_electricity,CC,4658.472000000004,kWh,0.4,1863.3888000000018,kg CO2-eq
+Q05,coolant_recovery,two,cooling_electricity,HTC,4658.472000000004,kWh,1e-08,4.6584720000000043e-05,CTUh
+Q05,coolant_recovery,two,cooling_electricity,CED,4658.472000000004,kWh,8.0,37267.776000000034,MJ-eq
+Q06,coolant_recovery,two,coolant_supply,CC,19.145476288459427,kg,4.0,76.58190515383771,kg CO2-eq
+Q06,coolant_recovery,two,coolant_supply,HTC,19.145476288459427,kg,4e-08,7.658190515383771e-07,CTUh
+Q06,coolant_recovery,two,coolant_supply,CED,19.145476288459427,kg,30.0,574.3642886537829,MJ-eq
+Q06,coolant_recovery,two,coolant_treatment,CC,4.992000000000001,kg,0.8,3.9936000000000007,kg CO2-eq
+Q06,coolant_recovery,two,coolant_treatment,HTC,4.992000000000001,kg,2e-08,9.984000000000003e-08,CTUh
+Q06,coolant_recovery,two,coolant_treatment,CED,4.992000000000001,kg,7.0,34.944,MJ-eq
+Q06,coolant_recovery,two,coolant_recovery,CC,7.4879999999999995,kg,0.3,2.2464,kg CO2-eq
+Q06,coolant_recovery,two,coolant_recovery,HTC,7.4879999999999995,kg,8e-09,5.9904e-08,CTUh
+Q06,coolant_recovery,two,coolant_recovery,CED,7.4879999999999995,kg,4.0,29.951999999999998,MJ-eq
+Q06,coolant_recovery,two,cooling_electricity,CC,5315.544000000005,kWh,0.4,2126.217600000002,kg CO2-eq
+Q06,coolant_recovery,two,cooling_electricity,HTC,5315.544000000005,kWh,1e-08,5.315544000000005e-05,CTUh
+Q06,coolant_recovery,two,cooling_electricity,CED,5315.544000000005,kWh,8.0,42524.35200000004,MJ-eq
+Q07,coolant_recovery,two,coolant_supply,CC,0.0,kg,4.0,0.0,kg CO2-eq
+Q07,coolant_recovery,two,coolant_supply,HTC,0.0,kg,4e-08,0.0,CTUh
+Q07,coolant_recovery,two,coolant_supply,CED,0.0,kg,30.0,0.0,MJ-eq
+Q07,coolant_recovery,two,coolant_treatment,CC,4.992000000000001,kg,0.8,3.9936000000000007,kg CO2-eq
+Q07,coolant_recovery,two,coolant_treatment,HTC,4.992000000000001,kg,2e-08,9.984000000000003e-08,CTUh
+Q07,coolant_recovery,two,coolant_treatment,CED,4.992000000000001,kg,7.0,34.944,MJ-eq
+Q07,coolant_recovery,two,coolant_recovery,CC,7.4879999999999995,kg,0.3,2.2464,kg CO2-eq
+Q07,coolant_recovery,two,coolant_recovery,HTC,7.4879999999999995,kg,8e-09,5.9904e-08,CTUh
+Q07,coolant_recovery,two,coolant_recovery,CED,7.4879999999999995,kg,4.0,29.951999999999998,MJ-eq
+Q07,coolant_recovery,two,cooling_electricity,CC,5315.544000000005,kWh,0.4,2126.217600000002,kg CO2-eq
+Q07,coolant_recovery,two,cooling_electricity,HTC,5315.544000000005,kWh,1e-08,5.315544000000005e-05,CTUh
+Q07,coolant_recovery,two,cooling_electricity,CED,5315.544000000005,kWh,8.0,42524.35200000004,MJ-eq
+Q08,coolant_recovery,two,coolant_supply,CC,0.0,kg,4.0,0.0,kg CO2-eq
+Q08,coolant_recovery,two,coolant_supply,HTC,0.0,kg,4e-08,0.0,CTUh
+Q08,coolant_recovery,two,coolant_supply,CED,0.0,kg,30.0,0.0,MJ-eq
+Q08,coolant_recovery,two,coolant_treatment,CC,4.992000000000001,kg,0.8,3.9936000000000007,kg CO2-eq
+Q08,coolant_recovery,two,coolant_treatment,HTC,4.992000000000001,kg,2e-08,9.984000000000003e-08,CTUh
+Q08,coolant_recovery,two,coolant_treatment,CED,4.992000000000001,kg,7.0,34.944,MJ-eq
+Q08,coolant_recovery,two,coolant_recovery,CC,7.4879999999999995,kg,0.3,2.2464,kg CO2-eq
+Q08,coolant_recovery,two,coolant_recovery,HTC,7.4879999999999995,kg,8e-09,5.9904e-08,CTUh
+Q08,coolant_recovery,two,coolant_recovery,CED,7.4879999999999995,kg,4.0,29.951999999999998,MJ-eq
+Q08,coolant_recovery,two,cooling_electricity,CC,4658.472000000004,kWh,0.4,1863.3888000000018,kg CO2-eq
+Q08,coolant_recovery,two,cooling_electricity,HTC,4658.472000000004,kWh,1e-08,4.6584720000000043e-05,CTUh
+Q08,coolant_recovery,two,cooling_electricity,CED,4658.472000000004,kWh,8.0,37267.776000000034,MJ-eq
+Q09,coolant_recovery,two,coolant_supply,CC,42.80732624851552,kg,4.0,171.2293049940621,kg CO2-eq
+Q09,coolant_recovery,two,coolant_supply,HTC,42.80732624851552,kg,4e-08,1.712293049940621e-06,CTUh
+Q09,coolant_recovery,two,coolant_supply,CED,42.80732624851552,kg,30.0,1284.2197874554656,MJ-eq
+Q09,coolant_recovery,two,coolant_treatment,CC,22.464000000000006,kg,0.8,17.971200000000007,kg CO2-eq
+Q09,coolant_recovery,two,coolant_treatment,HTC,22.464000000000006,kg,2e-08,4.492800000000001e-07,CTUh
+Q09,coolant_recovery,two,coolant_treatment,CED,22.464000000000006,kg,7.0,157.24800000000005,MJ-eq
+Q09,coolant_recovery,two,coolant_recovery,CC,33.696,kg,0.3,10.108799999999999,kg CO2-eq
+Q09,coolant_recovery,two,coolant_recovery,HTC,33.696,kg,8e-09,2.69568e-07,CTUh
+Q09,coolant_recovery,two,coolant_recovery,CED,33.696,kg,4.0,134.784,MJ-eq
+Q09,coolant_recovery,two,cooling_electricity,CC,5121.792000000004,kWh,0.4,2048.7168000000015,kg CO2-eq
+Q09,coolant_recovery,two,cooling_electricity,HTC,5121.792000000004,kWh,1e-08,5.121792000000004e-05,CTUh
+Q09,coolant_recovery,two,cooling_electricity,CED,5121.792000000004,kWh,8.0,40974.33600000003,MJ-eq
+Q10,coolant_recovery,two,coolant_supply,CC,24.266205233725536,kg,4.0,97.06482093490214,kg CO2-eq
+Q10,coolant_recovery,two,coolant_supply,HTC,24.266205233725536,kg,4e-08,9.706482093490216e-07,CTUh
+Q10,coolant_recovery,two,coolant_supply,CED,24.266205233725536,kg,30.0,727.9861570117661,MJ-eq
+Q10,coolant_recovery,two,coolant_treatment,CC,9.984000000000002,kg,0.8,7.987200000000001,kg CO2-eq
+Q10,coolant_recovery,two,coolant_treatment,HTC,9.984000000000002,kg,2e-08,1.9968000000000005e-07,CTUh
+Q10,coolant_recovery,two,coolant_treatment,CED,9.984000000000002,kg,7.0,69.888,MJ-eq
+Q10,coolant_recovery,two,coolant_recovery,CC,14.975999999999999,kg,0.3,4.4928,kg CO2-eq
+Q10,coolant_recovery,two,coolant_recovery,HTC,14.975999999999999,kg,8e-09,1.19808e-07,CTUh
+Q10,coolant_recovery,two,coolant_recovery,CED,14.975999999999999,kg,4.0,59.903999999999996,MJ-eq
+Q10,coolant_recovery,two,cooling_electricity,CC,6242.184000000005,kWh,0.4,2496.873600000002,kg CO2-eq
+Q10,coolant_recovery,two,cooling_electricity,HTC,6242.184000000005,kWh,1e-08,6.242184000000005e-05,CTUh
+Q10,coolant_recovery,two,cooling_electricity,CED,6242.184000000005,kWh,8.0,49937.47200000004,MJ-eq
+Q11,coolant_recovery,two,coolant_supply,CC,15.054578905322197,kg,4.0,60.21831562128879,kg CO2-eq
+Q11,coolant_recovery,two,coolant_supply,HTC,15.054578905322197,kg,4e-08,6.021831562128879e-07,CTUh
+Q11,coolant_recovery,two,coolant_supply,CED,15.054578905322197,kg,30.0,451.6373671596659,MJ-eq
+Q11,coolant_recovery,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q11,coolant_recovery,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q11,coolant_recovery,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q11,coolant_recovery,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q11,coolant_recovery,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q11,coolant_recovery,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q11,coolant_recovery,two,cooling_electricity,CC,6899.256000000006,kWh,0.4,2759.7024000000024,kg CO2-eq
+Q11,coolant_recovery,two,cooling_electricity,HTC,6899.256000000006,kWh,1e-08,6.899256000000006e-05,CTUh
+Q11,coolant_recovery,two,cooling_electricity,CED,6899.256000000006,kWh,8.0,55194.048000000046,MJ-eq
+Q12,coolant_recovery,two,coolant_supply,CC,15.312036795854416,kg,4.0,61.248147183417665,kg CO2-eq
+Q12,coolant_recovery,two,coolant_supply,HTC,15.312036795854416,kg,4e-08,6.124814718341767e-07,CTUh
+Q12,coolant_recovery,two,coolant_supply,CED,15.312036795854416,kg,30.0,459.36110387563247,MJ-eq
+Q12,coolant_recovery,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q12,coolant_recovery,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q12,coolant_recovery,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q12,coolant_recovery,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q12,coolant_recovery,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q12,coolant_recovery,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q12,coolant_recovery,two,cooling_electricity,CC,7556.328000000007,kWh,0.4,3022.531200000003,kg CO2-eq
+Q12,coolant_recovery,two,cooling_electricity,HTC,7556.328000000007,kWh,1e-08,7.556328000000007e-05,CTUh
+Q12,coolant_recovery,two,cooling_electricity,CED,7556.328000000007,kWh,8.0,60450.624000000054,MJ-eq
+Q01,combined_strategy,single,coolant_supply,CC,32.760000000000005,kg,2.0,65.52000000000001,kg CO2-eq
+Q01,combined_strategy,single,coolant_supply,HTC,32.760000000000005,kg,2e-08,6.552000000000001e-07,CTUh
+Q01,combined_strategy,single,coolant_supply,CED,32.760000000000005,kg,20.0,655.2,MJ-eq
+Q01,combined_strategy,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q01,combined_strategy,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q01,combined_strategy,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q01,combined_strategy,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q01,combined_strategy,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q01,combined_strategy,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q01,combined_strategy,single,cooling_electricity,CC,1886.9759999999987,kWh,0.4,754.7903999999995,kg CO2-eq
+Q01,combined_strategy,single,cooling_electricity,HTC,1886.9759999999987,kWh,1e-08,1.8869759999999987e-05,CTUh
+Q01,combined_strategy,single,cooling_electricity,CED,1886.9759999999987,kWh,8.0,15095.80799999999,MJ-eq
+Q02,combined_strategy,single,coolant_supply,CC,9.69263191084186,kg,2.0,19.38526382168372,kg CO2-eq
+Q02,combined_strategy,single,coolant_supply,HTC,9.69263191084186,kg,2e-08,1.938526382168372e-07,CTUh
+Q02,combined_strategy,single,coolant_supply,CED,9.69263191084186,kg,20.0,193.8526382168372,MJ-eq
+Q02,combined_strategy,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q02,combined_strategy,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q02,combined_strategy,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q02,combined_strategy,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q02,combined_strategy,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q02,combined_strategy,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q02,combined_strategy,single,cooling_electricity,CC,4299.609599999997,kWh,0.4,1719.8438399999989,kg CO2-eq
+Q02,combined_strategy,single,cooling_electricity,HTC,4299.609599999997,kWh,1e-08,4.299609599999997e-05,CTUh
+Q02,combined_strategy,single,cooling_electricity,CED,4299.609599999997,kWh,8.0,34396.876799999976,MJ-eq
+Q03,combined_strategy,single,coolant_supply,CC,9.78766959965382,kg,2.0,19.57533919930764,kg CO2-eq
+Q03,combined_strategy,single,coolant_supply,HTC,9.78766959965382,kg,2e-08,1.957533919930764e-07,CTUh
+Q03,combined_strategy,single,coolant_supply,CED,9.78766959965382,kg,20.0,195.75339199307638,MJ-eq
+Q03,combined_strategy,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q03,combined_strategy,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q03,combined_strategy,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q03,combined_strategy,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q03,combined_strategy,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q03,combined_strategy,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q03,combined_strategy,single,cooling_electricity,CC,5350.924799999997,kWh,0.4,2140.3699199999987,kg CO2-eq
+Q03,combined_strategy,single,cooling_electricity,HTC,5350.924799999997,kWh,1e-08,5.350924799999997e-05,CTUh
+Q03,combined_strategy,single,cooling_electricity,CED,5350.924799999997,kWh,8.0,42807.39839999998,MJ-eq
+Q04,combined_strategy,single,coolant_supply,CC,9.882707288465777,kg,2.0,19.765414576931555,kg CO2-eq
+Q04,combined_strategy,single,coolant_supply,HTC,9.882707288465777,kg,2e-08,1.9765414576931556e-07,CTUh
+Q04,combined_strategy,single,coolant_supply,CED,9.882707288465777,kg,20.0,197.65414576931556,MJ-eq
+Q04,combined_strategy,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q04,combined_strategy,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q04,combined_strategy,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q04,combined_strategy,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q04,combined_strategy,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q04,combined_strategy,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q04,combined_strategy,single,cooling_electricity,CC,6402.239999999997,kWh,0.4,2560.895999999999,kg CO2-eq
+Q04,combined_strategy,single,cooling_electricity,HTC,6402.239999999997,kWh,1e-08,6.402239999999998e-05,CTUh
+Q04,combined_strategy,single,cooling_electricity,CED,6402.239999999997,kWh,8.0,51217.91999999998,MJ-eq
+Q05,combined_strategy,single,coolant_supply,CC,22.74911306643588,kg,2.0,45.49822613287176,kg CO2-eq
+Q05,combined_strategy,single,coolant_supply,HTC,22.74911306643588,kg,2e-08,4.5498226132871756e-07,CTUh
+Q05,combined_strategy,single,coolant_supply,CED,22.74911306643588,kg,20.0,454.9822613287176,MJ-eq
+Q05,combined_strategy,single,coolant_treatment,CC,13.104000000000003,kg,0.5,6.552000000000001,kg CO2-eq
+Q05,combined_strategy,single,coolant_treatment,HTC,13.104000000000003,kg,1e-08,1.3104000000000004e-07,CTUh
+Q05,combined_strategy,single,coolant_treatment,CED,13.104000000000003,kg,5.0,65.52000000000001,MJ-eq
+Q05,combined_strategy,single,coolant_recovery,CC,19.656000000000002,kg,0.2,3.9312000000000005,kg CO2-eq
+Q05,combined_strategy,single,coolant_recovery,HTC,19.656000000000002,kg,5e-09,9.828000000000002e-08,CTUh
+Q05,combined_strategy,single,coolant_recovery,CED,19.656000000000002,kg,3.0,58.968,MJ-eq
+Q05,combined_strategy,single,cooling_electricity,CC,7453.555199999996,kWh,0.4,2981.4220799999985,kg CO2-eq
+Q05,combined_strategy,single,cooling_electricity,HTC,7453.555199999996,kWh,1e-08,7.453555199999997e-05,CTUh
+Q05,combined_strategy,single,cooling_electricity,CED,7453.555199999996,kWh,8.0,59628.44159999997,MJ-eq
+Q06,combined_strategy,single,coolant_supply,CC,13.72174497727774,kg,2.0,27.44348995455548,kg CO2-eq
+Q06,combined_strategy,single,coolant_supply,HTC,13.72174497727774,kg,2e-08,2.744348995455548e-07,CTUh
+Q06,combined_strategy,single,coolant_supply,CED,13.72174497727774,kg,20.0,274.4348995455548,MJ-eq
+Q06,combined_strategy,single,coolant_treatment,CC,3.7440000000000007,kg,0.5,1.8720000000000003,kg CO2-eq
+Q06,combined_strategy,single,coolant_treatment,HTC,3.7440000000000007,kg,1e-08,3.744000000000001e-08,CTUh
+Q06,combined_strategy,single,coolant_treatment,CED,3.7440000000000007,kg,5.0,18.720000000000002,MJ-eq
+Q06,combined_strategy,single,coolant_recovery,CC,5.6160000000000005,kg,0.2,1.1232000000000002,kg CO2-eq
+Q06,combined_strategy,single,coolant_recovery,HTC,5.6160000000000005,kg,5e-09,2.8080000000000004e-08,CTUh
+Q06,combined_strategy,single,coolant_recovery,CED,5.6160000000000005,kg,3.0,16.848000000000003,MJ-eq
+Q06,combined_strategy,single,cooling_electricity,CC,8504.870399999996,kWh,0.4,3401.9481599999986,kg CO2-eq
+Q06,combined_strategy,single,cooling_electricity,HTC,8504.870399999996,kWh,1e-08,8.504870399999997e-05,CTUh
+Q06,combined_strategy,single,cooling_electricity,CED,8504.870399999996,kWh,8.0,68038.96319999997,MJ-eq
+Q07,combined_strategy,single,coolant_supply,CC,0.0,kg,2.0,0.0,kg CO2-eq
+Q07,combined_strategy,single,coolant_supply,HTC,0.0,kg,2e-08,0.0,CTUh
+Q07,combined_strategy,single,coolant_supply,CED,0.0,kg,20.0,0.0,MJ-eq
+Q07,combined_strategy,single,coolant_treatment,CC,3.7440000000000007,kg,0.5,1.8720000000000003,kg CO2-eq
+Q07,combined_strategy,single,coolant_treatment,HTC,3.7440000000000007,kg,1e-08,3.744000000000001e-08,CTUh
+Q07,combined_strategy,single,coolant_treatment,CED,3.7440000000000007,kg,5.0,18.720000000000002,MJ-eq
+Q07,combined_strategy,single,coolant_recovery,CC,5.6160000000000005,kg,0.2,1.1232000000000002,kg CO2-eq
+Q07,combined_strategy,single,coolant_recovery,HTC,5.6160000000000005,kg,5e-09,2.8080000000000004e-08,CTUh
+Q07,combined_strategy,single,coolant_recovery,CED,5.6160000000000005,kg,3.0,16.848000000000003,MJ-eq
+Q07,combined_strategy,single,cooling_electricity,CC,8504.870399999996,kWh,0.4,3401.9481599999986,kg CO2-eq
+Q07,combined_strategy,single,cooling_electricity,HTC,8504.870399999996,kWh,1e-08,8.504870399999997e-05,CTUh
+Q07,combined_strategy,single,cooling_electricity,CED,8504.870399999996,kWh,8.0,68038.96319999997,MJ-eq
+Q08,combined_strategy,single,coolant_supply,CC,0.0,kg,2.0,0.0,kg CO2-eq
+Q08,combined_strategy,single,coolant_supply,HTC,0.0,kg,2e-08,0.0,CTUh
+Q08,combined_strategy,single,coolant_supply,CED,0.0,kg,20.0,0.0,MJ-eq
+Q08,combined_strategy,single,coolant_treatment,CC,3.7440000000000007,kg,0.5,1.8720000000000003,kg CO2-eq
+Q08,combined_strategy,single,coolant_treatment,HTC,3.7440000000000007,kg,1e-08,3.744000000000001e-08,CTUh
+Q08,combined_strategy,single,coolant_treatment,CED,3.7440000000000007,kg,5.0,18.720000000000002,MJ-eq
+Q08,combined_strategy,single,coolant_recovery,CC,5.6160000000000005,kg,0.2,1.1232000000000002,kg CO2-eq
+Q08,combined_strategy,single,coolant_recovery,HTC,5.6160000000000005,kg,5e-09,2.8080000000000004e-08,CTUh
+Q08,combined_strategy,single,coolant_recovery,CED,5.6160000000000005,kg,3.0,16.848000000000003,MJ-eq
+Q08,combined_strategy,single,cooling_electricity,CC,7453.555199999996,kWh,0.4,2981.4220799999985,kg CO2-eq
+Q08,combined_strategy,single,cooling_electricity,HTC,7453.555199999996,kWh,1e-08,7.453555199999997e-05,CTUh
+Q08,combined_strategy,single,cooling_electricity,CED,7453.555199999996,kWh,8.0,59628.44159999997,MJ-eq
+Q09,combined_strategy,single,coolant_supply,CC,30.53660302099135,kg,2.0,61.0732060419827,kg CO2-eq
+Q09,combined_strategy,single,coolant_supply,HTC,30.53660302099135,kg,2e-08,6.10732060419827e-07,CTUh
+Q09,combined_strategy,single,coolant_supply,CED,30.53660302099135,kg,20.0,610.732060419827,MJ-eq
+Q09,combined_strategy,single,coolant_treatment,CC,16.848000000000003,kg,0.5,8.424000000000001,kg CO2-eq
+Q09,combined_strategy,single,coolant_treatment,HTC,16.848000000000003,kg,1e-08,1.6848000000000004e-07,CTUh
+Q09,combined_strategy,single,coolant_treatment,CED,16.848000000000003,kg,5.0,84.24000000000001,MJ-eq
+Q09,combined_strategy,single,coolant_recovery,CC,25.272000000000002,kg,0.2,5.054400000000001,kg CO2-eq
+Q09,combined_strategy,single,coolant_recovery,HTC,25.272000000000002,kg,5e-09,1.2636e-07,CTUh
+Q09,combined_strategy,single,coolant_recovery,CED,25.272000000000002,kg,3.0,75.816,MJ-eq
+Q09,combined_strategy,single,cooling_electricity,CC,8194.867199999995,kWh,0.4,3277.946879999998,kg CO2-eq
+Q09,combined_strategy,single,cooling_electricity,HTC,8194.867199999995,kWh,1e-08,8.194867199999995e-05,CTUh
+Q09,combined_strategy,single,cooling_electricity,CED,8194.867199999995,kWh,8.0,65558.93759999996,MJ-eq
+Q10,combined_strategy,single,coolant_supply,CC,17.513263821683722,kg,2.0,35.026527643367444,kg CO2-eq
+Q10,combined_strategy,single,coolant_supply,HTC,17.513263821683722,kg,2e-08,3.5026527643367445e-07,CTUh
+Q10,combined_strategy,single,coolant_supply,CED,17.513263821683722,kg,20.0,350.26527643367444,MJ-eq
+Q10,combined_strategy,single,coolant_treatment,CC,7.488000000000001,kg,0.5,3.7440000000000007,kg CO2-eq
+Q10,combined_strategy,single,coolant_treatment,HTC,7.488000000000001,kg,1e-08,7.488000000000002e-08,CTUh
+Q10,combined_strategy,single,coolant_treatment,CED,7.488000000000001,kg,5.0,37.440000000000005,MJ-eq
+Q10,combined_strategy,single,coolant_recovery,CC,11.232000000000001,kg,0.2,2.2464000000000004,kg CO2-eq
+Q10,combined_strategy,single,coolant_recovery,HTC,11.232000000000001,kg,5e-09,5.616000000000001e-08,CTUh
+Q10,combined_strategy,single,coolant_recovery,CED,11.232000000000001,kg,3.0,33.696000000000005,MJ-eq
+Q10,combined_strategy,single,cooling_electricity,CC,9987.494399999994,kWh,0.4,3994.997759999998,kg CO2-eq
+Q10,combined_strategy,single,cooling_electricity,HTC,9987.494399999994,kWh,1e-08,9.987494399999994e-05,CTUh
+Q10,combined_strategy,single,cooling_electricity,CED,9987.494399999994,kWh,8.0,79899.95519999995,MJ-eq
+Q11,combined_strategy,single,coolant_supply,CC,10.310376888119595,kg,2.0,20.62075377623919,kg CO2-eq
+Q11,combined_strategy,single,coolant_supply,HTC,10.310376888119595,kg,2e-08,2.0620753776239191e-07,CTUh
+Q11,combined_strategy,single,coolant_supply,CED,10.310376888119595,kg,20.0,206.2075377623919,MJ-eq
+Q11,combined_strategy,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q11,combined_strategy,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q11,combined_strategy,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q11,combined_strategy,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q11,combined_strategy,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q11,combined_strategy,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q11,combined_strategy,single,cooling_electricity,CC,11038.809599999993,kWh,0.4,4415.523839999997,kg CO2-eq
+Q11,combined_strategy,single,cooling_electricity,HTC,11038.809599999993,kWh,1e-08,0.00011038809599999993,CTUh
+Q11,combined_strategy,single,cooling_electricity,CED,11038.809599999993,kWh,8.0,88310.47679999995,MJ-eq
+Q12,combined_strategy,single,coolant_supply,CC,10.405414576931555,kg,2.0,20.81082915386311,kg CO2-eq
+Q12,combined_strategy,single,coolant_supply,HTC,10.405414576931555,kg,2e-08,2.081082915386311e-07,CTUh
+Q12,combined_strategy,single,coolant_supply,CED,10.405414576931555,kg,20.0,208.1082915386311,MJ-eq
+Q12,combined_strategy,single,coolant_treatment,CC,0.0,kg,0.5,0.0,kg CO2-eq
+Q12,combined_strategy,single,coolant_treatment,HTC,0.0,kg,1e-08,0.0,CTUh
+Q12,combined_strategy,single,coolant_treatment,CED,0.0,kg,5.0,0.0,MJ-eq
+Q12,combined_strategy,single,coolant_recovery,CC,0.0,kg,0.2,0.0,kg CO2-eq
+Q12,combined_strategy,single,coolant_recovery,HTC,0.0,kg,5e-09,0.0,CTUh
+Q12,combined_strategy,single,coolant_recovery,CED,0.0,kg,3.0,0.0,MJ-eq
+Q12,combined_strategy,single,cooling_electricity,CC,12090.124799999994,kWh,0.4,4836.049919999998,kg CO2-eq
+Q12,combined_strategy,single,cooling_electricity,HTC,12090.124799999994,kWh,1e-08,0.00012090124799999994,CTUh
+Q12,combined_strategy,single,cooling_electricity,CED,12090.124799999994,kWh,8.0,96720.99839999995,MJ-eq
+Q01,combined_strategy,two,coolant_supply,CC,32.760000000000005,kg,4.0,131.04000000000002,kg CO2-eq
+Q01,combined_strategy,two,coolant_supply,HTC,32.760000000000005,kg,4e-08,1.3104000000000002e-06,CTUh
+Q01,combined_strategy,two,coolant_supply,CED,32.760000000000005,kg,30.0,982.8000000000002,MJ-eq
+Q01,combined_strategy,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q01,combined_strategy,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q01,combined_strategy,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q01,combined_strategy,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q01,combined_strategy,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q01,combined_strategy,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q01,combined_strategy,two,cooling_electricity,CC,943.4880000000007,kWh,0.4,377.39520000000033,kg CO2-eq
+Q01,combined_strategy,two,cooling_electricity,HTC,943.4880000000007,kWh,1e-08,9.434880000000007e-06,CTUh
+Q01,combined_strategy,two,cooling_electricity,CED,943.4880000000007,kWh,8.0,7547.904000000006,MJ-eq
+Q02,combined_strategy,two,coolant_supply,CC,10.035826962647079,kg,4.0,40.143307850588315,kg CO2-eq
+Q02,combined_strategy,two,coolant_supply,HTC,10.035826962647079,kg,4e-08,4.0143307850588313e-07,CTUh
+Q02,combined_strategy,two,coolant_supply,CED,10.035826962647079,kg,30.0,301.07480887941233,MJ-eq
+Q02,combined_strategy,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q02,combined_strategy,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q02,combined_strategy,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q02,combined_strategy,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q02,combined_strategy,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q02,combined_strategy,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q02,combined_strategy,two,cooling_electricity,CC,2149.8048000000017,kWh,0.4,859.9219200000007,kg CO2-eq
+Q02,combined_strategy,two,cooling_electricity,HTC,2149.8048000000017,kWh,1e-08,2.1498048000000018e-05,CTUh
+Q02,combined_strategy,two,cooling_electricity,CED,2149.8048000000017,kWh,8.0,17198.438400000014,MJ-eq
+Q03,combined_strategy,two,coolant_supply,CC,10.228920380546242,kg,4.0,40.91568152218497,kg CO2-eq
+Q03,combined_strategy,two,coolant_supply,HTC,10.228920380546242,kg,4e-08,4.091568152218497e-07,CTUh
+Q03,combined_strategy,two,coolant_supply,CED,10.228920380546242,kg,30.0,306.86761141638726,MJ-eq
+Q03,combined_strategy,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q03,combined_strategy,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q03,combined_strategy,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q03,combined_strategy,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q03,combined_strategy,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q03,combined_strategy,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q03,combined_strategy,two,cooling_electricity,CC,2675.462400000002,kWh,0.4,1070.184960000001,kg CO2-eq
+Q03,combined_strategy,two,cooling_electricity,HTC,2675.462400000002,kWh,1e-08,2.6754624000000022e-05,CTUh
+Q03,combined_strategy,two,cooling_electricity,CED,2675.462400000002,kWh,8.0,21403.699200000017,MJ-eq
+Q04,combined_strategy,two,coolant_supply,CC,10.422013798445407,kg,4.0,41.68805519378163,kg CO2-eq
+Q04,combined_strategy,two,coolant_supply,HTC,10.422013798445407,kg,4e-08,4.168805519378163e-07,CTUh
+Q04,combined_strategy,two,coolant_supply,CED,10.422013798445407,kg,30.0,312.6604139533622,MJ-eq
+Q04,combined_strategy,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q04,combined_strategy,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q04,combined_strategy,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q04,combined_strategy,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q04,combined_strategy,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q04,combined_strategy,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q04,combined_strategy,two,cooling_electricity,CC,3201.1200000000026,kWh,0.4,1280.4480000000012,kg CO2-eq
+Q04,combined_strategy,two,cooling_electricity,HTC,3201.1200000000026,kWh,1e-08,3.201120000000003e-05,CTUh
+Q04,combined_strategy,two,cooling_electricity,CED,3201.1200000000026,kWh,8.0,25608.96000000002,MJ-eq
+Q05,combined_strategy,two,coolant_supply,CC,23.0432802536975,kg,4.0,92.17312101479,kg CO2-eq
+Q05,combined_strategy,two,coolant_supply,HTC,23.0432802536975,kg,4e-08,9.217312101479e-07,CTUh
+Q05,combined_strategy,two,coolant_supply,CED,23.0432802536975,kg,30.0,691.298407610925,MJ-eq
+Q05,combined_strategy,two,coolant_treatment,CC,13.104000000000003,kg,0.8,10.483200000000004,kg CO2-eq
+Q05,combined_strategy,two,coolant_treatment,HTC,13.104000000000003,kg,2e-08,2.620800000000001e-07,CTUh
+Q05,combined_strategy,two,coolant_treatment,CED,13.104000000000003,kg,7.0,91.72800000000002,MJ-eq
+Q05,combined_strategy,two,coolant_recovery,CC,19.656000000000002,kg,0.3,5.896800000000001,kg CO2-eq
+Q05,combined_strategy,two,coolant_recovery,HTC,19.656000000000002,kg,8e-09,1.5724800000000003e-07,CTUh
+Q05,combined_strategy,two,coolant_recovery,CED,19.656000000000002,kg,4.0,78.62400000000001,MJ-eq
+Q05,combined_strategy,two,cooling_electricity,CC,3726.7776000000035,kWh,0.4,1490.7110400000015,kg CO2-eq
+Q05,combined_strategy,two,cooling_electricity,HTC,3726.7776000000035,kWh,1e-08,3.726777600000004e-05,CTUh
+Q05,combined_strategy,two,cooling_electricity,CED,3726.7776000000035,kWh,8.0,29814.22080000003,MJ-eq
+Q06,combined_strategy,two,coolant_supply,CC,14.359107216344572,kg,4.0,57.43642886537829,kg CO2-eq
+Q06,combined_strategy,two,coolant_supply,HTC,14.359107216344572,kg,4e-08,5.743642886537829e-07,CTUh
+Q06,combined_strategy,two,coolant_supply,CED,14.359107216344572,kg,30.0,430.7732164903372,MJ-eq
+Q06,combined_strategy,two,coolant_treatment,CC,3.7440000000000007,kg,0.8,2.9952000000000005,kg CO2-eq
+Q06,combined_strategy,two,coolant_treatment,HTC,3.7440000000000007,kg,2e-08,7.488000000000002e-08,CTUh
+Q06,combined_strategy,two,coolant_treatment,CED,3.7440000000000007,kg,7.0,26.208000000000006,MJ-eq
+Q06,combined_strategy,two,coolant_recovery,CC,5.6160000000000005,kg,0.3,1.6848,kg CO2-eq
+Q06,combined_strategy,two,coolant_recovery,HTC,5.6160000000000005,kg,8e-09,4.492800000000001e-08,CTUh
+Q06,combined_strategy,two,coolant_recovery,CED,5.6160000000000005,kg,4.0,22.464000000000002,MJ-eq
+Q06,combined_strategy,two,cooling_electricity,CC,4252.4352000000035,kWh,0.4,1700.9740800000015,kg CO2-eq
+Q06,combined_strategy,two,cooling_electricity,HTC,4252.4352000000035,kWh,1e-08,4.252435200000004e-05,CTUh
+Q06,combined_strategy,two,cooling_electricity,CED,4252.4352000000035,kWh,8.0,34019.48160000003,MJ-eq
+Q07,combined_strategy,two,coolant_supply,CC,0.0,kg,4.0,0.0,kg CO2-eq
+Q07,combined_strategy,two,coolant_supply,HTC,0.0,kg,4e-08,0.0,CTUh
+Q07,combined_strategy,two,coolant_supply,CED,0.0,kg,30.0,0.0,MJ-eq
+Q07,combined_strategy,two,coolant_treatment,CC,3.7440000000000007,kg,0.8,2.9952000000000005,kg CO2-eq
+Q07,combined_strategy,two,coolant_treatment,HTC,3.7440000000000007,kg,2e-08,7.488000000000002e-08,CTUh
+Q07,combined_strategy,two,coolant_treatment,CED,3.7440000000000007,kg,7.0,26.208000000000006,MJ-eq
+Q07,combined_strategy,two,coolant_recovery,CC,5.6160000000000005,kg,0.3,1.6848,kg CO2-eq
+Q07,combined_strategy,two,coolant_recovery,HTC,5.6160000000000005,kg,8e-09,4.492800000000001e-08,CTUh
+Q07,combined_strategy,two,coolant_recovery,CED,5.6160000000000005,kg,4.0,22.464000000000002,MJ-eq
+Q07,combined_strategy,two,cooling_electricity,CC,4252.4352000000035,kWh,0.4,1700.9740800000015,kg CO2-eq
+Q07,combined_strategy,two,cooling_electricity,HTC,4252.4352000000035,kWh,1e-08,4.252435200000004e-05,CTUh
+Q07,combined_strategy,two,cooling_electricity,CED,4252.4352000000035,kWh,8.0,34019.48160000003,MJ-eq
+Q08,combined_strategy,two,coolant_supply,CC,0.0,kg,4.0,0.0,kg CO2-eq
+Q08,combined_strategy,two,coolant_supply,HTC,0.0,kg,4e-08,0.0,CTUh
+Q08,combined_strategy,two,coolant_supply,CED,0.0,kg,30.0,0.0,MJ-eq
+Q08,combined_strategy,two,coolant_treatment,CC,3.7440000000000007,kg,0.8,2.9952000000000005,kg CO2-eq
+Q08,combined_strategy,two,coolant_treatment,HTC,3.7440000000000007,kg,2e-08,7.488000000000002e-08,CTUh
+Q08,combined_strategy,two,coolant_treatment,CED,3.7440000000000007,kg,7.0,26.208000000000006,MJ-eq
+Q08,combined_strategy,two,coolant_recovery,CC,5.6160000000000005,kg,0.3,1.6848,kg CO2-eq
+Q08,combined_strategy,two,coolant_recovery,HTC,5.6160000000000005,kg,8e-09,4.492800000000001e-08,CTUh
+Q08,combined_strategy,two,coolant_recovery,CED,5.6160000000000005,kg,4.0,22.464000000000002,MJ-eq
+Q08,combined_strategy,two,cooling_electricity,CC,3726.7776000000035,kWh,0.4,1490.7110400000015,kg CO2-eq
+Q08,combined_strategy,two,cooling_electricity,HTC,3726.7776000000035,kWh,1e-08,3.726777600000004e-05,CTUh
+Q08,combined_strategy,two,cooling_electricity,CED,3726.7776000000035,kWh,8.0,29814.22080000003,MJ-eq
+Q09,combined_strategy,two,coolant_supply,CC,32.10549468638664,kg,4.0,128.42197874554657,kg CO2-eq
+Q09,combined_strategy,two,coolant_supply,HTC,32.10549468638664,kg,4e-08,1.2842197874554657e-06,CTUh
+Q09,combined_strategy,two,coolant_supply,CED,32.10549468638664,kg,30.0,963.1648405915993,MJ-eq
+Q09,combined_strategy,two,coolant_treatment,CC,16.848000000000003,kg,0.8,13.478400000000002,kg CO2-eq
+Q09,combined_strategy,two,coolant_treatment,HTC,16.848000000000003,kg,2e-08,3.369600000000001e-07,CTUh
+Q09,combined_strategy,two,coolant_treatment,CED,16.848000000000003,kg,7.0,117.93600000000002,MJ-eq
+Q09,combined_strategy,two,coolant_recovery,CC,25.272000000000002,kg,0.3,7.5816,kg CO2-eq
+Q09,combined_strategy,two,coolant_recovery,HTC,25.272000000000002,kg,8e-09,2.0217600000000002e-07,CTUh
+Q09,combined_strategy,two,coolant_recovery,CED,25.272000000000002,kg,4.0,101.08800000000001,MJ-eq
+Q09,combined_strategy,two,cooling_electricity,CC,4097.433600000004,kWh,0.4,1638.9734400000016,kg CO2-eq
+Q09,combined_strategy,two,cooling_electricity,HTC,4097.433600000004,kWh,1e-08,4.097433600000004e-05,CTUh
+Q09,combined_strategy,two,cooling_electricity,CED,4097.433600000004,kWh,8.0,32779.46880000003,MJ-eq
+Q10,combined_strategy,two,coolant_supply,CC,18.199653925294157,kg,4.0,72.79861570117663,kg CO2-eq
+Q10,combined_strategy,two,coolant_supply,HTC,18.199653925294157,kg,4e-08,7.279861570117663e-07,CTUh
+Q10,combined_strategy,two,coolant_supply,CED,18.199653925294157,kg,30.0,545.9896177588247,MJ-eq
+Q10,combined_strategy,two,coolant_treatment,CC,7.488000000000001,kg,0.8,5.990400000000001,kg CO2-eq
+Q10,combined_strategy,two,coolant_treatment,HTC,7.488000000000001,kg,2e-08,1.4976000000000004e-07,CTUh
+Q10,combined_strategy,two,coolant_treatment,CED,7.488000000000001,kg,7.0,52.41600000000001,MJ-eq
+Q10,combined_strategy,two,coolant_recovery,CC,11.232000000000001,kg,0.3,3.3696,kg CO2-eq
+Q10,combined_strategy,two,coolant_recovery,HTC,11.232000000000001,kg,8e-09,8.985600000000002e-08,CTUh
+Q10,combined_strategy,two,coolant_recovery,CED,11.232000000000001,kg,4.0,44.928000000000004,MJ-eq
+Q10,combined_strategy,two,cooling_electricity,CC,4993.747200000004,kWh,0.4,1997.498880000002,kg CO2-eq
+Q10,combined_strategy,two,cooling_electricity,HTC,4993.747200000004,kWh,1e-08,4.9937472000000045e-05,CTUh
+Q10,combined_strategy,two,cooling_electricity,CED,4993.747200000004,kWh,8.0,39949.977600000035,MJ-eq
+Q11,combined_strategy,two,coolant_supply,CC,11.290934178991648,kg,4.0,45.16373671596659,kg CO2-eq
+Q11,combined_strategy,two,coolant_supply,HTC,11.290934178991648,kg,4e-08,4.5163736715966594e-07,CTUh
+Q11,combined_strategy,two,coolant_supply,CED,11.290934178991648,kg,30.0,338.72802536974945,MJ-eq
+Q11,combined_strategy,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q11,combined_strategy,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q11,combined_strategy,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q11,combined_strategy,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q11,combined_strategy,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q11,combined_strategy,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q11,combined_strategy,two,cooling_electricity,CC,5519.404800000005,kWh,0.4,2207.761920000002,kg CO2-eq
+Q11,combined_strategy,two,cooling_electricity,HTC,5519.404800000005,kWh,1e-08,5.5194048000000046e-05,CTUh
+Q11,combined_strategy,two,cooling_electricity,CED,5519.404800000005,kWh,8.0,44155.23840000004,MJ-eq
+Q12,combined_strategy,two,coolant_supply,CC,11.484027596890813,kg,4.0,45.936110387563254,kg CO2-eq
+Q12,combined_strategy,two,coolant_supply,HTC,11.484027596890813,kg,4e-08,4.593611038756325e-07,CTUh
+Q12,combined_strategy,two,coolant_supply,CED,11.484027596890813,kg,30.0,344.5208279067244,MJ-eq
+Q12,combined_strategy,two,coolant_treatment,CC,0.0,kg,0.8,0.0,kg CO2-eq
+Q12,combined_strategy,two,coolant_treatment,HTC,0.0,kg,2e-08,0.0,CTUh
+Q12,combined_strategy,two,coolant_treatment,CED,0.0,kg,7.0,0.0,MJ-eq
+Q12,combined_strategy,two,coolant_recovery,CC,0.0,kg,0.3,0.0,kg CO2-eq
+Q12,combined_strategy,two,coolant_recovery,HTC,0.0,kg,8e-09,0.0,CTUh
+Q12,combined_strategy,two,coolant_recovery,CED,0.0,kg,4.0,0.0,MJ-eq
+Q12,combined_strategy,two,cooling_electricity,CC,6045.062400000005,kWh,0.4,2418.024960000002,kg CO2-eq
+Q12,combined_strategy,two,cooling_electricity,HTC,6045.062400000005,kWh,1e-08,6.0450624000000053e-05,CTUh
+Q12,combined_strategy,two,cooling_electricity,CED,6045.062400000005,kWh,8.0,48360.49920000004,MJ-eq
