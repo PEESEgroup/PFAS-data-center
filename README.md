@@ -52,13 +52,6 @@ Five strategies share the same computing demand: baseline, improved PUE, lower c
 
 Each cooling result covers five strategies and two cooling phases. Impacts are added only within the same indicator. End-of-quarter stocks are not summed as cumulative consumption.
 
-## Interpretation
-
-The demo illustrates module interfaces and conservation of mass. Fixed rack performance, fixed service life, constant cooling shares, and simple usable-recovery fractions replace the detailed assumptions in the research model. Uncertainty analysis, detailed retrofits, electricity-background scenarios, and manuscript figures are outside this initial release.
-
-The burden boundary includes coolant supply, retirement treatment, recovery processing, and **cooling electricity only**. IT electricity is reported separately and is not included in burden totals. Air-cooling overhead, hardware production/disposal impacts, and direct characterization of coolant losses are omitted. Losses are recorded as mass leaving the system; the synthetic HTC factors are not a model of PFAS exposure or fate. Fluid remaining in equipment or recovery storage at the final quarter is retained as inventory, with no terminal disposal assumption.
-
-All reported impacts are illustrative and should not be interpreted as research estimates or technology rankings.
 
 ## Checks
 
