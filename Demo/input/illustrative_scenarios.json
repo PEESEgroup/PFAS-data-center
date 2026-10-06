@@ -1,0 +1,17 @@
+{
+  "baseline": {},
+  "improved_pue": {
+    "pue_overhead_factor": 0.75
+  },
+  "advanced_coolant": {
+    "coolant_intensity_factor": 0.65
+  },
+  "coolant_recovery": {
+    "recovery_rate": 0.7
+  },
+  "combined_strategy": {
+    "pue_overhead_factor": 0.75,
+    "coolant_intensity_factor": 0.65,
+    "recovery_rate": 0.7
+  }
+}
