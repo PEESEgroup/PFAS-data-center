@@ -94,7 +94,7 @@ Files are written to `Demo/output/`:
 | `cumulative_results.csv` | Cumulative flow quantities and burdens from the configured starting quarter. |
 | `scenario_summary.csv` | Cumulative totals and final installed/recovered fluid stocks for each case. |
 | `uncertainty_runs.csv` / `uncertainty_draws.csv` | Sampled case totals and parameter multipliers. |
-| `uncertainty_summary.csv` | Mean and P5/P50/P95 of cumulative outcomes. |
+| `uncertainty_summary.csv` | Mean and error bar of cumulative outcomes. |
 | `sensitivity_results.csv` | Low/high parameter changes relative to the selected baseline. |
 | `run_manifest.json` | Input hashes, seed, sample count and output row counts. |
 
